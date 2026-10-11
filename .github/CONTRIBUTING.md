@@ -18,8 +18,15 @@
 - `wyjazdy/README.md` — wykaz lat, w których planujemy lub odbyliśmy wyjazdy.
 - `wyjazdy/<rok>/README.md` — lista wyjazdów z konkretnego roku.
 - `wyjazdy/<rok>/<nazwa-wyjazdu>/README.md` — aktualne ustalenia, propozycje i następny krok.
-- `wyjazdy/<rok>/<nazwa-wyjazdu>/porownanie-ofert.md` — źródła, ceny, warunki, plusy i minusy ofert.
+- `wyjazdy/<rok>/<nazwa-wyjazdu>/porownanie-ofert.md` — ceny, daty i warunki wyjazdów.
+- `kraje/<kraj>/README.md` — kraj i lista opisanych miejsc.
+- `kraje/<kraj>/<osrodek>/README.md` — sam ośrodek lub połączony obszar narciarski.
+- `porownania/kraje.md` i `porownania/osrodki.md` — zestawienia zbiorcze z linkami do opisów.
 - Kolejny plik (np. `budzet.md` lub `plan-dnia.md`) dodajemy dopiero, gdy uprości on korzystanie z materiałów. Nie tworzymy pustych katalogów na zapas.
+
+Informacje o miejscach przechowujemy pod `kraje/`, a sezonowe terminy, ceny, noclegi i liczbę dni karnetu pod `wyjazdy/`. Porównania mają prowadzić do istniejących opisów bez kopiowania ich całej treści. Przy danych o długości tras zawsze podajemy źródło i zakres karnetu.
+
+**Kierunek odnośników:** strony wyjazdów linkują do krajów i ośrodków, ale strony w `kraje/` i `porownania/` nie linkują z powrotem do `wyjazdy/`. Każda strona z informacjami pochodzącymi ze źródeł zewnętrznych — także w `wyjazdy/` — zawiera jednolity blok daty odczytu, źródła i zakresu według [zasad dat odczytu](zasady-dat-odczytu.md).
 
 Po zakończeniu wyjazdu zachowujemy jego stronę. Nowy wyjazd dostaje **osobny katalog we właściwym roku**. Rok ustalamy według planowanego terminu rozpoczęcia głównego wyjazdu; wyjazdu na przełomie lat nie dzielimy między dwa foldery. Z głównej listy przechodzimy do roku, a następnie do wyjazdu.
 
