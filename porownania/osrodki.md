@@ -1,10 +1,10 @@
 # Porównanie ośrodków narciarskich
 
 **Data odczytu:** 2026-10-11  
-**Źródło:** [katalog SnowShow](https://snowshow.pl/wyjazdy/luty) i karty ofert; operatorzy włoscy [3 Zinnen](https://www.dreizinnen.com/en/skiing) i [Civetta](https://skicivetta.com/ski-area); francuscy [Montgenèvre](https://montgenevre.com/hiver/ski/domaine-skiable), [Val Thorens](https://www.valthorens.com/ski/forfaits/), [La Plagne](https://www.la-plagne.com/decouvrir-la-plagne/domaine-skiable) i [Vars](https://www.vars.com/winter/infolive/news/foret-blanche-vars-and-risoul/)  
-**Zakres:** porównanie wielkości tras lokalnych i szerszych obszarów; dla Włoch i Francji uwzględniono również oficjalne dane operatorów, z rozróżnieniem wariantów karnetów.
+**Źródło:** [katalog SnowShow](https://snowshow.pl/wyjazdy/luty) i karty ofert; operatorzy włoscy [3 Zinnen](https://www.dreizinnen.com/en/skiing) i [Civetta](https://skicivetta.com/ski-area); francuscy [Montgenèvre](https://montgenevre.com/hiver/ski/domaine-skiable), [Val Thorens](https://www.valthorens.com/ski/forfaits/), [La Plagne](https://www.la-plagne.com/decouvrir-la-plagne/domaine-skiable) i [Vars](https://www.vars.com/winter/infolive/news/foret-blanche-vars-and-risoul/); austriaccy [Dachstein West](https://www.dachstein.at/en/winter/partner-ski-areas), [Skiresort — 51 km](https://www.skiresort.com/en/ski-resort/dachstein-west-gosau-russbach-annaberg/slope-offering/), [Krippenstein](https://www.dachstein-salzkammergut.com/en/winter/skiing) i [Nassfeld](https://www.nassfeld.at/en/Winter-World/Sun-Ski-World/Skigebiet-Nassfeld)  
+**Zakres:** porównanie przygotowanych tras, szerszych obszarów i uprawnień karnetowych; dane operatorów dla Włoch, Francji i Austrii, z osobnym wskazaniem odrębnych terenów i wariantów freeride.
 
-Porównujemy **11 opisanych ośrodków lub połączonych obszarów**. Kilometry odnoszą się do **tras opisanych w źródłach**, nie zawsze do całego obszaru możliwego do zwiedzania. Ośrodki we Włoszech i Francji zostały dodatkowo sprawdzone u operatorów; pozostałe wiersze opierają się na kartach SnowShow.
+Porównujemy **12 opisanych ośrodków lub połączonych obszarów**. Kilometry odnoszą się do **tras opisanych w źródłach**, nie zawsze do całego obszaru możliwego do zwiedzania. Ośrodki we Włoszech, Francji i Austrii zostały dodatkowo sprawdzone u operatorów; pozostałe wiersze opierają się na kartach SnowShow.
 
 | Kraj | Ośrodek lub obszar | Trasy według wskazanych źródeł | Dodatkowe możliwości |
 | --- | --- | ---: | --- |
@@ -14,12 +14,13 @@ Porównujemy **11 opisanych ośrodków lub połączonych obszarów**. Kilometry 
 | [Francja](../kraje/francja/README.md) | [Orelle / Val Thorens](../kraje/francja/orelle-val-thorens/README.md) | **150 km (operator)** | Szerszy teren 3 Dolin: 600 km, wymaga odpowiedniego karnetu |
 | [Francja](../kraje/francja/README.md) | [La Plagne](../kraje/francja/la-plagne/README.md) | **225 km (operator)** | Paradiski z Les Arcs / Peisey-Vallandry: 425 km, wymaga odpowiedniego karnetu |
 | [Francja](../kraje/francja/README.md) | [Risoul / Vars](../kraje/francja/risoul-vars/README.md) | **185 km (operator)** | Połączony teren Forêt Blanche, bez podwójnego liczenia tras Vars i Risoul |
-| [Austria](../kraje/austria/README.md) | [Dachstein West / Krippenstein](../kraje/austria/dachstein-west-krippenstein/README.md) | ok. **142 km** | SnowShow opisuje osobno około 30 km szlaków poza przygotowanymi trasami; nie doliczamy ich do tras zjazdowych |
-| [Austria](../kraje/austria/README.md) | [Nassfeld](../kraje/austria/nassfeld/README.md) | ok. **110 km** | — |
+| [Austria](../kraje/austria/README.md) | [Dachstein West](../kraje/austria/dachstein-west/README.md) | **51 km połączonych tras (Skiresort, nie operator)** | Dachstein Tour (44 km wycieczki); 160 km w sieci osobnych ośrodków, 142 km w karcie SnowShow — inne zakresy |
+| [Austria](../kraje/austria/README.md) | [Krippenstein](../kraje/austria/krippenstein/README.md) | **9 km zjazdu do doliny (operator; nie suma tras)** | Osobny ośrodek w Obertraun; ok. 30 km wariantów freeride **poza** przygotowanymi trasami |
+| [Austria](../kraje/austria/README.md) | [Nassfeld](../kraje/austria/nassfeld/README.md) | **110 km (operator i SnowShow)** | Jeden region, 29 wyciągów, snowpark przy Gartnerkofel |
 | [Słowenia](../kraje/slowenia/README.md) | [Krvavec](../kraje/slowenia/krvavec/README.md) | ok. **30 km** | — |
 | [Szwajcaria](../kraje/szwajcaria/README.md) | [Verbier / La Tzoumaz](../kraje/szwajcaria/verbier-la-tzoumaz/README.md) | **180 km** | Możliwe rozszerzenie na 4 Doliny (412 km) za dopłatą |
 | [Bośnia i Hercegowina](../kraje/bosnia-i-hercegowina/README.md) | [Jahorina](../kraje/bosnia-i-hercegowina/jahorina/README.md) | ok. **52 km** | — |
 
-**Uwaga:** kilometry to dostępne trasy, nie dystans, który ktoś przejedzie. Civetta ma **72 km według operatora** i **80 km według SnowShow**. We Francji 110 km Montgenèvre obejmuje **Monts de la Lune**, nie tylko lokalne 95 km. Większe regiony **Via Lattea (400 km)**, **3 Doliny (600 km)** i **Paradiski (425 km)** wymagają sprawdzenia wariantu karnetu. SnowShow opisuje 2 dni dostępu do Via Lattea w wybranej ofercie Montgenèvre; nie jest to cecha każdego lokalnego karnetu. Warunki ofert mogą się różnić między terminami.
+**Uwaga:** kilometry to dostępne trasy, nie dystans, który ktoś przejedzie. Civetta ma **72 km według operatora** i **80 km według SnowShow**. We Francji 110 km Montgenèvre obejmuje **Monts de la Lune**, nie tylko lokalne 95 km. Większe regiony **Via Lattea (400 km)**, **3 Doliny (600 km)** i **Paradiski (425 km)** wymagają sprawdzenia wariantu karnetu. SnowShow opisuje 2 dni dostępu do Via Lattea w wybranej ofercie Montgenèvre; nie jest to cecha każdego lokalnego karnetu. **Dachstein West:** 51 km według Skiresort dotyczy połączonego terenu; 142 km SnowShow ma niepotwierdzony podział, a 160 km operatora obejmuje szerszą sieć ośrodków. **Krippenstein:** 9 km zjazdu do doliny nie oznacza sumy przygotowanych tras, a 30 km freeride nie wlicza się do przygotowanych stoków. Warunki ofert mogą się różnić między terminami.
 
 [← Wszystkie porównania](README.md)

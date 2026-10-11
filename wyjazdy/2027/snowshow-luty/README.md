@@ -24,7 +24,7 @@ Przy porównywaniu wszystkich 23 propozycji warto zwrócić uwagę na:
 
 - **[Włochy / 3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md):** 5 terminów, hotel ze śniadaniami i obiadokolacjami za dodatkową opłatą, **5 dni jazdy**.
 - **[Włochy / Civetta](../../../kraje/wlochy/civetta/README.md):** 1 termin, apartamenty blisko stoku, **6 dni jazdy**.
-- **[Austria / Dachstein West](../../../kraje/austria/dachstein-west-krippenstein/README.md):** kilka terminów, domki z kuchnią, **6 dni jazdy**.
+- **Austria / [Dachstein West](../../../kraje/austria/dachstein-west/README.md) i [Krippenstein](../../../kraje/austria/krippenstein/README.md):** kilka terminów, domki z kuchnią, **6 dni jazdy**.
 - **[Słowenia / Krvavec](../../../kraje/slowenia/krvavec/README.md):** hotel 4★ z wyżywieniem, **6 dni jazdy**, ale mniejszy ośrodek.
 - **Francja i Szwajcaria:** większe obszary narciarskie, zwykle dłuższy dojazd lub wyższa cena.
 

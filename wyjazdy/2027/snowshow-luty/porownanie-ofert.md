@@ -37,10 +37,10 @@ Ceny są **promocyjnymi kwotami „od” podanymi przez SnowShow**, z oznaczenie
 
 | Wyjazd | Ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
 | --- | --- | --- | ---: | ---: | --- | --- |
-| [Austrian Expedition](https://snowshow.pl/wyjazdy/austria/dachstein-west/06-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west-krippenstein/README.md) | 06.02–13.02 | 3 790 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
-| [Pure Austrian Powder](https://snowshow.pl/wyjazdy/austria/dachstein-west/13-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west-krippenstein/README.md) | 13.02–20.02 | 4 190 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
-| [Austria Peak Performance](https://snowshow.pl/wyjazdy/austria/dachstein-west/20-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west-krippenstein/README.md) | 20.02–27.02 | 4 090 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
-| [Austrian Madness](https://snowshow.pl/wyjazdy/austria/dachstein-west/27-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west-krippenstein/README.md) | 27.02–06.03 | 3 390 zł | 6 | Domki z kuchnią, sauna i basen | Wszystkie trzy |
+| [Austrian Expedition](https://snowshow.pl/wyjazdy/austria/dachstein-west/06-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west/README.md) / [Krippenstein](../../../kraje/austria/krippenstein/README.md) | 06.02–13.02 | 3 790 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
+| [Pure Austrian Powder](https://snowshow.pl/wyjazdy/austria/dachstein-west/13-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west/README.md) / [Krippenstein](../../../kraje/austria/krippenstein/README.md) | 13.02–20.02 | 4 190 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
+| [Austria Peak Performance](https://snowshow.pl/wyjazdy/austria/dachstein-west/20-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west/README.md) / [Krippenstein](../../../kraje/austria/krippenstein/README.md) | 20.02–27.02 | 4 090 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
+| [Austrian Madness](https://snowshow.pl/wyjazdy/austria/dachstein-west/27-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west/README.md) / [Krippenstein](../../../kraje/austria/krippenstein/README.md) | 27.02–06.03 | 3 390 zł | 6 | Domki z kuchnią, sauna i basen | Wszystkie trzy |
 | [Austrian Snow Adventure](https://snowshow.pl/wyjazdy/austria/nassfeld/28-02-2027) | [Nassfeld](../../../kraje/austria/nassfeld/README.md) | 28.02–06.03 | 3 590 zł | 5 | Apartamenty premium lub hotel 4★ | Wszystkie trzy |
 
 ## [Słowenia](../../../kraje/slowenia/README.md) — 2 wyjazdy
@@ -65,7 +65,7 @@ Ceny są **promocyjnymi kwotami „od” podanymi przez SnowShow**, z oznaczenie
 
 ## Porównaj ośrodki narciarskie
 
-**[Zobacz zestawienie 11 ośrodków: trasy, rozszerzenia karnetów i opisy](../../../porownania/osrodki.md)**. Dostępny jest też [przegląd krajów](../../../kraje/README.md).
+**[Zobacz zestawienie 12 ośrodków: trasy, rozszerzenia karnetów i opisy](../../../porownania/osrodki.md)**. Dostępny jest też [przegląd krajów](../../../kraje/README.md).
 
 Tu zostają **terminy, ceny, dni jazdy, noclegi i dopłaty konkretnych wyjazdów**. Informacje o samych ośrodkach są dostępne osobno, aby nie powielać ich przy przyszłych wyjazdach.
 
