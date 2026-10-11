@@ -9,7 +9,7 @@ Tutaj zbieramy pomysły na wspólne wyjazdy, porównujemy możliwości i zapisuj
 Planujemy dłuższy wyjazd na narty i snowboard. **Nie wybraliśmy jeszcze terminu ani nie dokonaliśmy rezerwacji.**
 
 - **[Zobacz, co planujemy i jakie wyjazdy rozważamy](wyjazdy/2027/snowshow-luty/README.md)**
-- [Porównaj 10 ofert SnowShow — terminy, ceny, trasy i noclegi](wyjazdy/2027/snowshow-luty/porownanie-ofert.md)
+- [Porównaj 23 oferty SnowShow — terminy, ceny, trasy i noclegi](wyjazdy/2027/snowshow-luty/porownanie-ofert.md)
 
 ## Inne wyjazdy
 

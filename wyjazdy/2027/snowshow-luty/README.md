@@ -4,40 +4,40 @@ Planujemy dłuższy wyjazd na narty i snowboard ze SnowShow. **Na razie porównu
 
 ## Co już wiemy?
 
-- **Kiedy:** szukamy terminu obejmującego luty 2027. Niektóre propozycje zaczynają się pod koniec stycznia albo kończą na początku marca.
-- **Na jak długo:** porównywane wyjazdy trwają około 10 dni **wraz z dojazdem**, a karnet obejmuje **6 dni na stoku**.
-- **Z kim:** SnowShow; sprawdzaliśmy oferty dla grup Student, Plus i Oldschool. Nie wybraliśmy jeszcze grupy.
-- **Jak dojechać:** w ofertach pojawia się autokar, wygodniejszy autokar XXL i niekiedy transfer z lotniska. Sprawdziliśmy też możliwość wyjazdu z Wrocławia, ale **nie ustaliliśmy jeszcze skąd i czym pojedziemy**.
+- **Kiedy:** rozważamy wyjazdy obejmujące luty 2027. Niektóre zaczynają się pod koniec stycznia, a inne kończą na początku marca.
+- **Wybór:** znaleźliśmy **23 propozycje nierodzinne**, w tym **6 do Włoch**, 7 do Francji, 5 do Austrii, 2 do Słowenii, 2 do Szwajcarii i 1 do Bośni i Hercegowiny.
+- **Na ile dni jazdy:** oferty obejmują **5 lub 6 dni karnetu**, zależnie od miejsca. Dłuższy termin pobytu nie oznacza automatycznie większej liczby dni na stoku.
+- **Dla kogo:** szukamy wśród wyjazdów Student, Plus i Oldschool. Grupa nie została jeszcze wybrana.
+- **Dojazd:** oferty dopuszczają autokar; w części możliwe są miejsca XXL i transfery lotniskowe. Miasto odjazdu i konkretny transport jeszcze nie są ustalone.
 
-**[Zobacz porównanie wszystkich 10 ofert](porownanie-ofert.md)** — zawiera terminy, ceny, długość tras, noclegi i dodatkowe opłaty.
+**[Porównaj wszystkie 23 wyjazdy: ceny, terminy, noclegi i dni na stoku](porownanie-ofert.md)**
 
-## Cztery propozycje warte bliższego przyjrzenia się
+## Co warto porównać bliżej?
 
-To **wstępne propozycje**, nie wybrane wyjazdy.
+Nie ograniczamy już wyboru do pierwotnych czterech propozycji francuskich i szwajcarskich — wcześniej pominięto m.in. Włochy, Austrię i Słowenię. Po sprawdzeniu wszystkich propozycji warto porównać:
 
-| Wyjazd | Termin | Co przemawia za nim? | O czym trzeba pamiętać? |
-| --- | --- | --- | --- |
-| **Snowy Nomads — Orelle / Val Thorens** | 29.01–07.02 | Najniższa cena w porównaniu, wysoko położone stoki | Skromne apartamenty, około 600 m do kolejki |
-| **Only Snow Vibes — Risoul / Vars** | 05.02–14.02 | 185 km tras, noclegi przy stoku | Najniższa cena dotyczy starszych apartamentów 2★, a nie luksusowych 4★ |
-| **French Ski & Chill — La Plagne** | 29.01–07.02 | 225 km tras objętych karnetem, blisko stoku | Drożej; na stronie organizatora są niezgodne daty lotów — trzeba to wyjaśnić |
-| **So Swiss — Verbier / La Tzoumaz** | 19.02–28.02 | Ciekawe trasy dla dobrze jeżdżących, także poza przygotowanymi trasami | Najdroższy z tej czwórki; za dostęp do całych 4 Dolin jest dopłata |
+- **Włochy / 3 Zinnen:** 5 terminów, hotel ze śniadaniami i obiadokolacjami za dodatkową opłatą, **5 dni jazdy**.
+- **Włochy / Civetta:** 1 termin, apartamenty blisko stoku, **6 dni jazdy**.
+- **Austria / Dachstein West:** kilka terminów, domki z kuchnią, **6 dni jazdy**.
+- **Słowenia / Krvavec:** hotel 4★ z wyżywieniem, **6 dni jazdy**, ale mniejszy ośrodek.
+- **Francja i Szwajcaria:** większe obszary narciarskie, zwykle dłuższy dojazd lub wyższa cena.
 
-**Jeśli ważniejszy jest komfort noclegu**, warto też rozważyć **French Snow Escape w Montgenèvre (29.01–07.02)**: apartamenty 4★ około 20 m od stoku.
+To nie jest jeszcze ranking ani wybór miejsca — najpierw porównamy koszty końcowe, komfort i potrzeby naszej grupy.
 
 ## Czego jeszcze nie ustaliliśmy?
 
-- Które terminy nam odpowiadają.
-- Ile osób pojedzie i jak chcemy spać (pokoje, rozkładane sofy, wolne łóżka).
-- Ile maksymalnie chcemy wydać **łącznie z dodatkowymi opłatami i jedzeniem**.
-- Skąd i jak jedziemy.
-- Czy ważniejsze są trasy, jazda poza trasami, wygodny nocleg czy wieczorne atrakcje.
+- Które daty nam odpowiadają.
+- Ile osób pojedzie i jakie pokoje chcemy zarezerwować.
+- Ile maksymalnie chcemy wydać, **razem z dopłatami i jedzeniem**.
+- Skąd i w jaki sposób jedziemy.
+- Co jest ważniejsze: duży wybór tras, komfort noclegu czy atrakcje po jeździe.
 
 ## Co dalej?
 
-1. Ustalimy termin, liczbę osób, budżet i najważniejsze preferencje.
-2. Sprawdzimy dostępność oraz **ostateczną cenę dla naszej grupy** w 2–4 wybranych ofertach.
-3. Zapiszemy tutaj wybraną propozycję i dopiero potem przejdziemy do rezerwacji.
+1. Uzgodnić terminy, budżet i potrzeby grupy.
+2. Wybrać kilka propozycji **spośród wszystkich 23**, a następnie porównać rzeczywisty koszt i dostępność.
+3. Po decyzji zapisać wybrany wyjazd na tej stronie i dopiero potem przejść do rezerwacji.
 
-**Uwaga:** szczegóły rezerwacji, dane uczestników i płatności przechowujemy poza tą publiczną stroną.
+**Uwaga:** dane uczestników, rezerwacji i płatności przechowujemy poza tym publicznym repozytorium.
 
 [← Wyjazdy w 2027 roku](../README.md)

@@ -1,41 +1,105 @@
-# SnowShow — porównanie 10 wyjazdów
+# SnowShow — wyjazdy obejmujące luty 2027
 
-Informacje z ofert organizatora zebrane **11 października 2026 r.** Ceny i dostępność mogą się zmieniać. **Żaden wyjazd nie został jeszcze wybrany ani zarezerwowany.**
+**Zebrano 23 wyjazdy (w tym 6 do Włoch).** Dane sprawdzono **11 października 2026 r.** na [lutowej liście SnowShow](https://snowshow.pl/wyjazdy/luty) oraz w kartach ofert. Punktem wyjścia są [filtry: Student / Plus / Oldschool, autokar / XXL / transfer lotniskowy i luty 2027](https://snowshow.pl/wyjazdy?grupa-wiekowa=student,plus,oldschool&transport=transfer_lotniskowy,autokar,autokar_xxl&data=february_2027). Nie uwzględniamy wyjazdów przeznaczonych wyłącznie dla rodzin.
 
-Porównujemy dłuższe propozycje obejmujące luty 2027 — również te zaczynające się pod koniec stycznia lub kończące na początku marca. [Zobacz wyszukiwanie SnowShow z użytymi filtrami](https://snowshow.pl/wyjazdy?grupa-wiekowa=student,plus,oldschool&transport=transfer_lotniskowy,autokar,autokar_xxl&data=february_2027).
+**To pełna lista wyjazdów nierodzinnych odnalezionych na lutowej stronie organizatora**, także tych zaczynających się w styczniu lub kończących w marcu. W każdej z poniższych kart przewidziano transport autokarowy; **konkretne miasto odjazdu, miejsca XXL i ewentualny transfer lotniskowy wymagają sprawdzenia dla wybranej oferty**. Nie mamy potwierdzonej dostępności miejsc ani końcowej ceny w koszyku.
 
-## Terminy, ceny i noclegi
+Ceny są **promocyjnymi kwotami „od” podanymi przez SnowShow**, z oznaczeniem promocji do **16 października 2026 r.** Nie zawierają wszystkich obowiązkowych opłat. W tabelach **„Wszystkie trzy”** oznacza Student, Plus i Oldschool.
 
-**W każdej ofercie karnet narciarski obejmuje 6 dni jazdy.** Podane daty uwzględniają także podróż. Ceny są **„od”, za jedną osobę**, przed uwzględnieniem wszystkich opłat.
+## Włochy — 6 wyjazdów
 
-| Wyjazd i miejsce | Termin | Cena od | Trasy objęte karnetem | Nocleg |
-| --- | --- | ---: | --- | --- |
-| [French Snow Escape](https://snowshow.pl/wyjazdy/francja/montgenevre/29-01-2027), Montgenèvre (Francja) | 29.01–07.02 | 3 090 zł | 110 km; dodatkowo 2 dni w Via Lattea (400 km) | Apartamenty 4★, ok. 20 m od stoku |
-| [Snowy Nomads](https://snowshow.pl/wyjazdy/francja/orelle/29-01-2027), Orelle / Val Thorens (Francja) | 29.01–07.02 | **2 590 zł** | 150 km; możliwość dopłaty do większego obszaru (600 km) | Proste apartamenty 3★, ok. 600 m od kolejki |
-| [French Ski & Chill](https://snowshow.pl/wyjazdy/francja/la-plagne/29-01-2027), La Plagne (Francja) | 29.01–07.02 | 3 390 zł | 225 km; większy obszar Paradiski (425 km) za dopłatą 140 zł | Apartamenty ok. 50 m od stoku |
-| [French Week](https://snowshow.pl/wyjazdy/francja/risoul-vars/29-01-2027), Risoul / Vars (Francja) | 29.01–07.02 | 3 390 zł | 185 km | Apartamenty 4★ przy stoku |
-| [Only Snow Vibes](https://snowshow.pl/wyjazdy/francja/risoul-vars/05-02-2027), Risoul / Vars (Francja) | 05.02–14.02 | 2 990 zł | 185 km | Tańsze apartamenty 2★ lub droższe 4★, oba przy stoku |
-| [Snow Vibes](https://snowshow.pl/wyjazdy/francja/vars/05-02-2027), Vars / Risoul (Francja) | 05.02–14.02 | 3 190 zł | 185 km | Apartamenty Arya, ok. 300 m od stoku |
-| [Balkan Snow Expedition](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027), Jahorina (Bośnia i Hercegowina) | 05.02–14.02 | 3 590 zł | 52 km | Hotel apartamentowy 4★, bezpośrednio przy stoku |
-| [So Swiss](https://snowshow.pl/wyjazdy/szwajcaria/verbier/19-02-2027), Verbier / La Tzoumaz (Szwajcaria) | 19.02–28.02 | 3 890 zł | 180 km; cały obszar 4 Dolin (412 km) za dopłatą 200 zł | Apartamenty 3★ przy kolejce |
-| [Swiss Powder Paradise](https://snowshow.pl/wyjazdy/szwajcaria/verbier/26-02-2027), Verbier / La Tzoumaz (Szwajcaria) | 26.02–07.03 | 4 190 zł | 180 km; cały obszar 4 Dolin za dopłatą 200 zł | Apartamenty 3★ przy kolejce |
-| [Ski Hard or Go Home](https://snowshow.pl/wyjazdy/francja/orelle/26-02-2027), Orelle / Val Thorens (Francja) | 26.02–07.03 | 3 390 zł | 150 km; większy obszar za dopłatą zależną od terminu | Proste apartamenty 3★, ok. 600 m od kolejki |
+| Wyjazd i ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
+| --- | --- | ---: | ---: | --- | --- |
+| [Dolce Siesta Dolomiti](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/31-01-2027) — 3 Zinnen | 31.01–06.02 | 2 790 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
+| [Italian Chill](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/07-02-2027) — 3 Zinnen | 07.02–13.02 | 2 990 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
+| [Italian Break](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/14-02-2027) — 3 Zinnen | 14.02–20.02 | 3 190 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
+| [Italian Camp](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/21-02-2027) — 3 Zinnen | 21.02–27.02 | 2 990 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
+| [Italian Friends Adventure](https://snowshow.pl/wyjazdy/wlochy/civetta/27-02-2027) — Civetta | 27.02–06.03 | 3 690 zł | 6 | Apartamenty z kuchnią, ok. 200 m od stoku | Wszystkie trzy |
+| [Italian Adventure](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/28-02-2027) — 3 Zinnen | 28.02–06.03 | 2 890 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
 
-W przypadku **Only Snow Vibes** cena początkowa dotyczy **tańszych, starszych apartamentów 2★** (nazywanych przez SnowShow „BUDGET”). Nowocześniejsze apartamenty 4★ („LUX”) to **droższa opcja**. Nie należy porównywać ceny pierwszej z komfortem drugiej.
+## Francja — 7 wyjazdów
 
-## Ile naprawdę trzeba przygotować?
+| Wyjazd i ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
+| --- | --- | ---: | ---: | --- | --- |
+| [French Snow Escape](https://snowshow.pl/wyjazdy/francja/montgenevre/29-01-2027) — Montgenèvre | 29.01–07.02 | 3 090 zł | 6 | Apartamenty 4★, ok. 20 m od stoku | Wszystkie trzy |
+| [Snowy Nomads](https://snowshow.pl/wyjazdy/francja/orelle/29-01-2027) — Orelle / Val Thorens | 29.01–07.02 | 2 590 zł | 6 | Proste apartamenty 3★, ok. 600 m od kolejki | Wszystkie trzy |
+| [French Ski & Chill](https://snowshow.pl/wyjazdy/francja/la-plagne/29-01-2027) — La Plagne | 29.01–07.02 | 3 390 zł | 6 | Apartamenty ok. 50 m od stoku | Wszystkie trzy |
+| [French Week](https://snowshow.pl/wyjazdy/francja/risoul-vars/29-01-2027) — Risoul / Vars | 29.01–07.02 | 3 390 zł | 6 | Apartamenty 4★ przy stoku | Wszystkie trzy |
+| [Only Snow Vibes](https://snowshow.pl/wyjazdy/francja/risoul-vars/05-02-2027) — Risoul / Vars | 05.02–14.02 | 2 990 zł | 6 | Starsze apartamenty 2★ lub droższe 4★ | Wszystkie trzy |
+| [Snow Vibes](https://snowshow.pl/wyjazdy/francja/vars/05-02-2027) — Vars / Risoul | 05.02–14.02 | 3 190 zł | 6 | Apartamenty Arya, ok. 300 m od stoku | Plus i Oldschool |
+| [Ski Hard or Go Home](https://snowshow.pl/wyjazdy/francja/orelle/26-02-2027) — Orelle / Val Thorens | 26.02–07.03 | 3 390 zł | 6 | Proste apartamenty 3★, ok. 600 m od kolejki | Wszystkie trzy |
 
-Do ceny z pierwszej tabeli mogą dojść m.in. **ubezpieczenie, dopłata do miejsca w pokoju, pościel, sprzątanie i opłata turystyczna**.
+## Austria — 5 wyjazdów
 
-Poniższe kwoty są **orientacyjnym minimum na osobę**, wyliczonym przy założeniu:
-- przejazdu zwykłym autokarem w cenie oferty;
-- ubezpieczenia za 95 zł (przy spełnieniu warunków dotyczących karty EKUZ, czyli Europejskiej Karty Ubezpieczenia Zdrowotnego);
-- najtańszego opisanego miejsca noclegowego, przy pełnym obłożeniu pokoju;
-- opłat wskazanych w ofertach organizatora z 11 października 2026 r.
+| Wyjazd i ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
+| --- | --- | ---: | ---: | --- | --- |
+| [Austrian Expedition](https://snowshow.pl/wyjazdy/austria/dachstein-west/06-02-2027) — Dachstein West | 06.02–13.02 | 3 790 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
+| [Pure Austrian Powder](https://snowshow.pl/wyjazdy/austria/dachstein-west/13-02-2027) — Dachstein West | 13.02–20.02 | 4 190 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
+| [Austria Peak Performance](https://snowshow.pl/wyjazdy/austria/dachstein-west/20-02-2027) — Dachstein West | 20.02–27.02 | 4 090 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
+| [Austrian Madness](https://snowshow.pl/wyjazdy/austria/dachstein-west/27-02-2027) — Dachstein West | 27.02–06.03 | 3 390 zł | 6 | Domki z kuchnią, sauna i basen | Wszystkie trzy |
+| [Austrian Snow Adventure](https://snowshow.pl/wyjazdy/austria/nassfeld/28-02-2027) — Nassfeld | 28.02–06.03 | 3 590 zł | 5 | Apartamenty premium lub hotel 4★ | Wszystkie trzy |
 
-**Kwoty w EUR (euro) i CHF (frankach szwajcarskich) trzeba doliczyć do kwoty w złotych.** Nie przeliczamy ich na złote, żeby nie sugerować nieaktualnego kursu walut.
+## Słowenia — 2 wyjazdy
 
-| Wyjazd | Orientacyjnie od — razem z ubezpieczeniem i ewentualną dopłatą do pokoju | Dodatkowe opłaty na miejscu | Zwrotna kaucja (osobno) |
+| Wyjazd i ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
+| --- | --- | ---: | ---: | --- | --- |
+| [Slovenian Adventure](https://snowshow.pl/wyjazdy/slowenia/kranj-krvavec/06-02-2027) — Kranj / Krvavec | 06.02–12.02 | 2 640 zł | 6 | Hotel 4★ ze śniadaniami i obiadokolacjami | Student i Plus |
+| [Slovenian Paradise](https://snowshow.pl/wyjazdy/slowenia/kranj-krvavec/20-02-2027) — Kranj / Krvavec | 20.02–26.02 | 2 640 zł | 6 | Hotel 4★ ze śniadaniami i obiadokolacjami | Student i Plus |
+
+## Szwajcaria — 2 wyjazdy
+
+| Wyjazd i ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
+| --- | --- | ---: | ---: | --- | --- |
+| [So Swiss](https://snowshow.pl/wyjazdy/szwajcaria/verbier/19-02-2027) — Verbier / La Tzoumaz | 19.02–28.02 | 3 890 zł | 6 | Apartamenty 3★ przy kolejce | Wszystkie trzy |
+| [Swiss Powder Paradise](https://snowshow.pl/wyjazdy/szwajcaria/verbier/26-02-2027) — Verbier / La Tzoumaz | 26.02–07.03 | 4 190 zł | 6 | Apartamenty 3★ przy kolejce | Wszystkie trzy |
+
+## Bośnia i Hercegowina — 1 wyjazd
+
+| Wyjazd i ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
+| --- | --- | ---: | ---: | --- | --- |
+| [Balkan Snow Expedition](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027) — Jahorina | 05.02–14.02 | 3 590 zł | 6 | Hotel 4★ przy stoku; opłata za posiłki do wyjaśnienia | Wszystkie trzy |
+
+## Trasy narciarskie objęte karnetem
+
+**Liczba kilometrów oznacza trasy dostępne w podstawowym karnecie** według opisu SnowShow, a nie liczbę kilometrów, które każdy uczestnik przejedzie. Kilka terminów w tym samym ośrodku ma tę samą liczbę tras, dlatego zestawiamy ośrodki tylko raz.
+
+| Ośrodek | Trasy w podstawowym karnecie | Dodatkowe możliwości |
+| --- | ---: | --- |
+| 3 Zinnen (Włochy) | ok. **115 km** | — |
+| Civetta (Włochy) | ok. **80 km** | — |
+| Montgenèvre (Francja) | **110 km** | **2 dni dostępu do Via Lattea (400 km)** są już wliczone w karnet |
+| Orelle / Val Thorens (Francja) | **150 km** | Możliwe rozszerzenie do 600 km tras 3 Dolin, w wybranych terminach, za dopłatą |
+| La Plagne (Francja) | **225 km** | Rozszerzenie do całego Paradiski (425 km) za dopłatą |
+| Risoul / Vars (Francja) | **185 km** | — |
+| Dachstein West / Krippenstein (Austria) | ok. **142 km** | Organizator podaje oddzielnie 30 km szlaków do jazdy poza trasami |
+| Nassfeld (Austria) | ok. **110 km** | — |
+| Krvavec (Słowenia) | ok. **30 km** | — |
+| Verbier (Szwajcaria) | **180 km** | Rozszerzenie na całe 4 Doliny (412 km) za dopłatą |
+| Jahorina (Bośnia i Hercegowina) | ok. **52 km** | — |
+
+**Uwaga:** rozszerzenie karnetu nie jest automatycznie uwzględnione w cenie „od”. Wyjątkiem jest wskazany w karcie Montgenèvre 2-dniowy dostęp do Via Lattea — wliczony w podstawowy karnet. Kilometry i warunki podaje organizator; szczegóły mogą się różnić w zależności od terminu i wariantu.
+
+## Ważne różnice między ofertami
+
+- **Nie wszystkie wyjazdy mają 6 dni jazdy.** Włoskie wyjazdy do **3 Zinnen** (5 terminów) i austriacki **Nassfeld** obejmują **5-dniowy karnet**. **Civetta**, Dachstein West, Krvavec i porównane wyjazdy francuskie i szwajcarskie mają 6 dni karnetu w opisanych wariantach. Daty w tabelach obejmują również podróż.
+- **Włochy / 3 Zinnen:** 115 km tras. Hotel jest opisany jako „z wyżywieniem”, lecz dla [Dolce Siesta Dolomiti](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/31-01-2027) karta pokazuje **obowiązkowe 135 EUR za śniadania i obiadokolacje** oraz **18 EUR opłaty turystycznej**. W podstawowym hotelu do stoków jedzie się autokarem ok. **25 minut**; poszczególne pokoje mają osobne dopłaty. Podobne warunki dla pozostałych terminów należy potwierdzić przed porównaniem cen całkowitych.
+- **Włochy / Civetta:** 80 km tras, 6 dni karnetu, apartamenty z aneksem kuchennym ok. 200 m od stoku. Dobre uzupełnienie oferty 3 Zinnen, jeśli zależy nam na 6 dniach jazdy.
+- **Słowenia / Krvavec:** 30 km tras i **6-dniowy karnet** mimo krótszego kalendarzowo wyjazdu. Hotel 4★ w Kranju oferuje śniadania i obiadokolacje; do stoku trzeba dojechać.
+- **Austria / Dachstein West:** 142 km tras według opisu SnowShow, 6-dniowy karnet, domki z kuchnią, basen i sauna. Trzy lutowe terminy są tylko dla grupy Oldschool.
+- **Francja / Risoul:** w **Only Snow Vibes** najniższa cena dotyczy tańszych, starszych apartamentów **2★**, nie opcji luksusowej **4★**.
+- **Szwajcaria / Verbier:** podstawowy karnet obejmuje mniejszy obszar niż całe 4 Doliny; szerszy dostęp jest za dopłatą.
+
+## Koszty poza ceną „od”
+
+Ubezpieczenie, pościel, sprzątanie, lokalna opłata turystyczna, dopłata do pokoju lub wyżywienie mogą znacząco zmienić cenę. **Kaucja zwrotna jest osobnym wydatkiem na początku, ale nie kosztem końcowym, jeśli zostanie zwrócona.** Bilety lotnicze i wydatki osobiste są oddzielne.
+
+Poniższa tabela zawiera **dokładniej rozpisane, lecz nadal orientacyjne koszty tylko 10 ofert z wcześniejszej analizy**. **Pozostałych 13 ofert — w tym wyjazdów do Włoch, Austrii i Słowenii — jeszcze nie porównano kosztowo na jednakowych zasadach. Nie należy z tego powodu uznawać pierwszej dziesiątki za tańszą lub lepszą.**
+
+**Jak obliczyliśmy kwoty dla tych 10 ofert?** Założyliśmy zwykły autokar wliczony w cenę wyjazdu, **95 zł obowiązkowego ubezpieczenia na osobę** (przy spełnieniu warunków organizatora dotyczących karty EKUZ) i najtańszy opisany wariant miejsca noclegowego **przy pełnym obłożeniu pokoju**. Uwzględniliśmy ewentualną dopłatę w złotych do takiego miejsca. Opłaty za pościel, sprzątanie i podatek turystyczny wskazane w ofertach zapisaliśmy **osobno w EUR lub CHF** — trzeba doliczyć je do kwoty w złotych; nie przeliczamy ich po dowolnym kursie. Zwrotną kaucję pokazujemy oddzielnie i nie uznajemy jej za ostateczny koszt wyjazdu. **To orientacyjne minimum, nie potwierdzona oferta dla konkretnej liczby uczestników.**
+
+**Kiedy płaci się dodatkowe opłaty?** Nie wszystkie są regulowane w hotelu. SnowShow informuje, że opłaty w lokalnej walucie mogą być pobierane **przez system rezerwacyjny po opłaceniu kwoty w złotych, jeszcze przed wyjazdem**. Dokładny termin i sposób płatności trzeba sprawdzić w informacjach do wybranej oferty.
+
+| Wyjazd | Orientacyjnie od — z ubezpieczeniem i dopłatą do pokoju, jeśli dotyczy | Dodatkowe obowiązkowe opłaty (EUR/CHF) | Zwrotna kaucja (osobno) |
 | --- | ---: | ---: | ---: |
 | French Snow Escape | 3 285 zł | 55 EUR | 50 EUR |
 | Snowy Nomads | **2 785 zł** | 23 EUR | 50 EUR |
@@ -50,23 +114,15 @@ Poniższe kwoty są **orientacyjnym minimum na osobę**, wyliczonym przy założ
 
 **Co oznaczają te kwoty?** Przykładowo przy Snowy Nomads trzeba orientacyjnie przygotować **2 785 zł + 23 EUR** na wyjazd i obowiązkowe opłaty, a także **50 EUR zwrotnej kaucji**. Do tego dochodzi jedzenie i inne wydatki. Kaucja wraca po wyjeździe, jeśli nie ma potrąceń.
 
-**Nie są wliczone:** jedzenie (z wyjątkiem ewentualnych usług potwierdzonych osobno), wypożyczenie sprzętu, lekcje, imprezy, zakup lotów, dodatkowe trasy, własne wydatki czy wygodniejszy autokar XXL. Jeśli nie zapełnimy całego pokoju, cena noclegu może wzrosnąć. Organizator wskazywał ubezpieczenie za **95, 115 lub 145 zł**, zależnie od terminu przekazania EKUZ; przy wyjeździe **poza Unię Europejską do Bośni** trzeba osobno potwierdzić ubezpieczenie i ewentualne warunki EKUZ. Kwota dla Jahoriny jest zatem **szczególnie niepewna**.
+**Do podanej tabeli nie wliczono:** jedzenie (z wyjątkiem ewentualnych usług potwierdzonych osobno), wypożyczenie sprzętu, lekcje, imprezy, zakup lotów, dodatkowe trasy, własne wydatki czy wygodniejszy autokar XXL. Jeśli nie zapełnimy całego pokoju, cena noclegu może wzrosnąć. Organizator wskazywał ubezpieczenie za **95, 115 lub 145 zł**, zależnie od terminu przekazania EKUZ; przy wyjeździe **poza Unię Europejską do Bośni** trzeba osobno potwierdzić ubezpieczenie i ewentualne warunki EKUZ. Kwota dla Jahoriny jest zatem **szczególnie niepewna**.
 
-## Co warto wiedzieć o najciekawszych ośrodkach?
+## Dalsze sprawdzenia przed wyborem
 
-- **Orelle / Val Thorens:** bardzo wysoko położone stoki i niska cena. Noclegi są jednak proste; część osób może spać na rozkładanej sofie. Do kolejki jest ok. 600 m, a na stoki wjeżdża się z doliny.
-- **Risoul / Vars:** sporo tras i noclegi przy stoku. W taniej opcji apartamenty są starsze i ciasne; wygodniejszy nocleg 4★ wymaga osobnej wyceny.
-- **La Plagne:** dużo tras w cenie, nocleg blisko stoku. Apartamenty są raczej nieduże; sauna jest dodatkowo płatna, a Wi-Fi w pokoju nie jest gwarantowane.
-- **Verbier / La Tzoumaz:** atrakcyjny teren dla bardziej doświadczonych osób, w tym jazdy poza przygotowanymi trasami. Większy obszar narciarski jest za dopłatą, a nocleg znajduje się w spokojniejszej miejscowości.
-- **Montgenèvre:** komfortowe apartamenty 4★ bardzo blisko stoku, ale mniejszy podstawowy obszar tras. Może być dobrą alternatywą, jeśli nocleg jest ważniejszy od liczby kilometrów.
-
-## Dojazd i ważne rzeczy do sprawdzenia
-
-- W **9 z 10** opisów organizator podaje **Wrocław jako miejsce odjazdu autokaru bez dodatkowej opłaty**. Wyjątkiem jest **Jahorina** — wymieniono Katowice, Łódź/Stryków i Warszawę. Nie zdecydowaliśmy jeszcze, skąd chcemy wyjechać.
-- Wygodniejszy **autokar XXL** to według sprawdzanych ofert dopłata **250 zł od osoby**.
-- Przy części wyjazdów dostępne są loty lub dojazd z lotniska, ale osobny transfer nie zawsze jest gwarantowany i wymaga potwierdzenia. Bilet lotniczy może być dodatkowym kosztem.
-- **La Plagne (29.01–07.02):** w części strony dotyczącej lotów widnieją **daty 23.01 i 30.01**, niezgodne z terminem wyjazdu. Nie należy rezerwować przelotu na tej podstawie bez wyjaśnienia.
-- **Jahorina:** niejasne jest, czy wyżywienie ze śniadaniami i obiadokolacjami jest w cenie, czy wymaga dopłaty **235 EUR**. Trzeba to sprawdzić bezpośrednio u organizatora.
-- Przed wyborem trzeba potwierdzić **wolne miejsca, końcową cenę konkretnego pokoju, godziny odjazdu, dokładny zakres karnetu oraz warunki rezygnacji**.
+- Potwierdzić aktualną cenę i dostępność **konkretnego pokoju**; kwoty promocyjne mogą stracić ważność.
+- Dla **wszystkich 23** wyjazdów porównać pełne obowiązkowe dopłaty i rzeczywiste dni jazdy. Szczególnie sprawdzić włoskie hotele z dopłatą do wyżywienia.
+- Potwierdzić miasta i godziny odjazdu autokaru, możliwość XXL oraz faktyczną dostępność transferu lotniskowego. Wcześniej Wrocław został potwierdzony w **9 z 10 początkowo analizowanych** ofert, nie we wszystkich 23.
+- **La Plagne (29.01–07.02):** na stronie są niezgodne z terminem wyjazdu daty lotów **23.01 i 30.01**.
+- **Jahorina:** wyjaśnić, czy cena zawiera posiłki, czy trzeba dopłacić **235 EUR**, oraz sprawdzić ubezpieczenie poza Unią Europejską.
+- Uwzględnić warunki rezygnacji i łączny koszt wyjazdu dla naszej liczby osób.
 
 **[← Wróć do planu wyjazdu](README.md)**
