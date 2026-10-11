@@ -1,5 +1,9 @@
 # SnowShow — luty 2027
 
+**Data odczytu:** 2026-10-11  
+**Źródło:** [lutowy katalog SnowShow](https://snowshow.pl/wyjazdy/luty), [wyjazdy z filtrami](https://snowshow.pl/wyjazdy?grupa-wiekowa=student,plus,oldschool&transport=transfer_lotniskowy,autokar,autokar_xxl&data=february_2027) oraz indywidualne karty ofert  
+**Zakres:** terminy, ceny wyjściowe, grupy uczestników, karnety i warunki wyjazdów SnowShow na luty 2027.
+
 Planujemy dłuższy wyjazd na narty i snowboard ze SnowShow. **Na razie porównujemy propozycje — nie wybraliśmy wyjazdu ani niczego nie zarezerwowaliśmy.**
 
 ## Co już wiemy?
@@ -12,14 +16,16 @@ Planujemy dłuższy wyjazd na narty i snowboard ze SnowShow. **Na razie porównu
 
 **[Porównaj wszystkie 23 wyjazdy: ceny, terminy, noclegi i dni na stoku](porownanie-ofert.md)**
 
+[Poznaj kraje i ośrodki](../../../kraje/README.md) lub [porównaj tereny narciarskie](../../../porownania/osrodki.md) bez ograniczania się do jednego terminu.
+
 ## Co warto porównać bliżej?
 
-Nie ograniczamy już wyboru do pierwotnych czterech propozycji francuskich i szwajcarskich — wcześniej pominięto m.in. Włochy, Austrię i Słowenię. Po sprawdzeniu wszystkich propozycji warto porównać:
+Przy porównywaniu wszystkich 23 propozycji warto zwrócić uwagę na:
 
-- **Włochy / 3 Zinnen:** 5 terminów, hotel ze śniadaniami i obiadokolacjami za dodatkową opłatą, **5 dni jazdy**.
-- **Włochy / Civetta:** 1 termin, apartamenty blisko stoku, **6 dni jazdy**.
-- **Austria / Dachstein West:** kilka terminów, domki z kuchnią, **6 dni jazdy**.
-- **Słowenia / Krvavec:** hotel 4★ z wyżywieniem, **6 dni jazdy**, ale mniejszy ośrodek.
+- **[Włochy / 3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md):** 5 terminów, hotel ze śniadaniami i obiadokolacjami za dodatkową opłatą, **5 dni jazdy**.
+- **[Włochy / Civetta](../../../kraje/wlochy/civetta/README.md):** 1 termin, apartamenty blisko stoku, **6 dni jazdy**.
+- **[Austria / Dachstein West](../../../kraje/austria/dachstein-west-krippenstein/README.md):** kilka terminów, domki z kuchnią, **6 dni jazdy**.
+- **[Słowenia / Krvavec](../../../kraje/slowenia/krvavec/README.md):** hotel 4★ z wyżywieniem, **6 dni jazdy**, ale mniejszy ośrodek.
 - **Francja i Szwajcaria:** większe obszary narciarskie, zwykle dłuższy dojazd lub wyższa cena.
 
 To nie jest jeszcze ranking ani wybór miejsca — najpierw porównamy koszty końcowe, komfort i potrzeby naszej grupy.
