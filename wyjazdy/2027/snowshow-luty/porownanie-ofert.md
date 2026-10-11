@@ -12,56 +12,56 @@ Ceny są **promocyjnymi kwotami „od” podanymi przez SnowShow**, z oznaczenie
 
 ## [Włochy](../../../kraje/wlochy/README.md) — 6 wyjazdów
 
-| Wyjazd i ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
-| --- | --- | ---: | ---: | --- | --- |
-| [Dolce Siesta Dolomiti](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/31-01-2027) — [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 31.01–06.02 | 2 790 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
-| [Italian Chill](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/07-02-2027) — [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 07.02–13.02 | 2 990 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
-| [Italian Break](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/14-02-2027) — [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 14.02–20.02 | 3 190 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
-| [Italian Camp](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/21-02-2027) — [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 21.02–27.02 | 2 990 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
-| [Italian Friends Adventure](https://snowshow.pl/wyjazdy/wlochy/civetta/27-02-2027) — [Civetta](../../../kraje/wlochy/civetta/README.md) | 27.02–06.03 | 3 690 zł | 6 | Apartamenty z kuchnią, ok. 200 m od stoku | Wszystkie trzy |
-| [Italian Adventure](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/28-02-2027) — [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 28.02–06.03 | 2 890 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
+| Wyjazd | Ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
+| --- | --- | --- | ---: | ---: | --- | --- |
+| [Dolce Siesta Dolomiti](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/31-01-2027) | [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 31.01–06.02 | 2 790 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
+| [Italian Chill](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/07-02-2027) | [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 07.02–13.02 | 2 990 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
+| [Italian Break](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/14-02-2027) | [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 14.02–20.02 | 3 190 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
+| [Italian Camp](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/21-02-2027) | [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 21.02–27.02 | 2 990 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
+| [Italian Friends Adventure](https://snowshow.pl/wyjazdy/wlochy/civetta/27-02-2027) | [Civetta](../../../kraje/wlochy/civetta/README.md) | 27.02–06.03 | 3 690 zł | 6 | Apartamenty z kuchnią, ok. 200 m od stoku | Wszystkie trzy |
+| [Italian Adventure](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/28-02-2027) | [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 28.02–06.03 | 2 890 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
 
 ## [Francja](../../../kraje/francja/README.md) — 7 wyjazdów
 
-| Wyjazd i ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
-| --- | --- | ---: | ---: | --- | --- |
-| [French Snow Escape](https://snowshow.pl/wyjazdy/francja/montgenevre/29-01-2027) — [Montgenèvre](../../../kraje/francja/montgenevre/README.md) | 29.01–07.02 | 3 090 zł | 6 | Apartamenty 4★, ok. 20 m od stoku | Wszystkie trzy |
-| [Snowy Nomads](https://snowshow.pl/wyjazdy/francja/orelle/29-01-2027) — [Orelle / Val Thorens](../../../kraje/francja/orelle-val-thorens/README.md) | 29.01–07.02 | 2 590 zł | 6 | Proste apartamenty 3★, ok. 600 m od kolejki | Wszystkie trzy |
-| [French Ski & Chill](https://snowshow.pl/wyjazdy/francja/la-plagne/29-01-2027) — [La Plagne](../../../kraje/francja/la-plagne/README.md) | 29.01–07.02 | 3 390 zł | 6 | Apartamenty ok. 50 m od stoku | Wszystkie trzy |
-| [French Week](https://snowshow.pl/wyjazdy/francja/risoul-vars/29-01-2027) — [Risoul / Vars](../../../kraje/francja/risoul-vars/README.md) | 29.01–07.02 | 3 390 zł | 6 | Apartamenty 4★ przy stoku | Wszystkie trzy |
-| [Only Snow Vibes](https://snowshow.pl/wyjazdy/francja/risoul-vars/05-02-2027) — [Risoul / Vars](../../../kraje/francja/risoul-vars/README.md) | 05.02–14.02 | 2 990 zł | 6 | Starsze apartamenty 2★ lub droższe 4★ | Wszystkie trzy |
-| [Snow Vibes](https://snowshow.pl/wyjazdy/francja/vars/05-02-2027) — [Vars / Risoul](../../../kraje/francja/risoul-vars/README.md) | 05.02–14.02 | 3 190 zł | 6 | Apartamenty Arya, ok. 300 m od stoku | Plus i Oldschool |
-| [Ski Hard or Go Home](https://snowshow.pl/wyjazdy/francja/orelle/26-02-2027) — [Orelle / Val Thorens](../../../kraje/francja/orelle-val-thorens/README.md) | 26.02–07.03 | 3 390 zł | 6 | Proste apartamenty 3★, ok. 600 m od kolejki | Wszystkie trzy |
+| Wyjazd | Ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
+| --- | --- | --- | ---: | ---: | --- | --- |
+| [French Snow Escape](https://snowshow.pl/wyjazdy/francja/montgenevre/29-01-2027) | [Montgenèvre](../../../kraje/francja/montgenevre/README.md) | 29.01–07.02 | 3 090 zł | 6 | Apartamenty 4★, ok. 20 m od stoku | Wszystkie trzy |
+| [Snowy Nomads](https://snowshow.pl/wyjazdy/francja/orelle/29-01-2027) | [Orelle / Val Thorens](../../../kraje/francja/orelle-val-thorens/README.md) | 29.01–07.02 | 2 590 zł | 6 | Proste apartamenty 3★, ok. 600 m od kolejki | Wszystkie trzy |
+| [French Ski & Chill](https://snowshow.pl/wyjazdy/francja/la-plagne/29-01-2027) | [La Plagne](../../../kraje/francja/la-plagne/README.md) | 29.01–07.02 | 3 390 zł | 6 | Apartamenty ok. 50 m od stoku | Wszystkie trzy |
+| [French Week](https://snowshow.pl/wyjazdy/francja/risoul-vars/29-01-2027) | [Risoul / Vars](../../../kraje/francja/risoul-vars/README.md) | 29.01–07.02 | 3 390 zł | 6 | Apartamenty 4★ przy stoku | Wszystkie trzy |
+| [Only Snow Vibes](https://snowshow.pl/wyjazdy/francja/risoul-vars/05-02-2027) | [Risoul / Vars](../../../kraje/francja/risoul-vars/README.md) | 05.02–14.02 | 2 990 zł | 6 | Starsze apartamenty 2★ lub droższe 4★ | Wszystkie trzy |
+| [Snow Vibes](https://snowshow.pl/wyjazdy/francja/vars/05-02-2027) | [Risoul / Vars](../../../kraje/francja/risoul-vars/README.md) | 05.02–14.02 | 3 190 zł | 6 | Apartamenty Arya, ok. 300 m od stoku | Plus i Oldschool |
+| [Ski Hard or Go Home](https://snowshow.pl/wyjazdy/francja/orelle/26-02-2027) | [Orelle / Val Thorens](../../../kraje/francja/orelle-val-thorens/README.md) | 26.02–07.03 | 3 390 zł | 6 | Proste apartamenty 3★, ok. 600 m od kolejki | Wszystkie trzy |
 
 ## [Austria](../../../kraje/austria/README.md) — 5 wyjazdów
 
-| Wyjazd i ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
-| --- | --- | ---: | ---: | --- | --- |
-| [Austrian Expedition](https://snowshow.pl/wyjazdy/austria/dachstein-west/06-02-2027) — [Dachstein West](../../../kraje/austria/dachstein-west-krippenstein/README.md) | 06.02–13.02 | 3 790 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
-| [Pure Austrian Powder](https://snowshow.pl/wyjazdy/austria/dachstein-west/13-02-2027) — [Dachstein West](../../../kraje/austria/dachstein-west-krippenstein/README.md) | 13.02–20.02 | 4 190 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
-| [Austria Peak Performance](https://snowshow.pl/wyjazdy/austria/dachstein-west/20-02-2027) — [Dachstein West](../../../kraje/austria/dachstein-west-krippenstein/README.md) | 20.02–27.02 | 4 090 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
-| [Austrian Madness](https://snowshow.pl/wyjazdy/austria/dachstein-west/27-02-2027) — [Dachstein West](../../../kraje/austria/dachstein-west-krippenstein/README.md) | 27.02–06.03 | 3 390 zł | 6 | Domki z kuchnią, sauna i basen | Wszystkie trzy |
-| [Austrian Snow Adventure](https://snowshow.pl/wyjazdy/austria/nassfeld/28-02-2027) — [Nassfeld](../../../kraje/austria/nassfeld/README.md) | 28.02–06.03 | 3 590 zł | 5 | Apartamenty premium lub hotel 4★ | Wszystkie trzy |
+| Wyjazd | Ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
+| --- | --- | --- | ---: | ---: | --- | --- |
+| [Austrian Expedition](https://snowshow.pl/wyjazdy/austria/dachstein-west/06-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west-krippenstein/README.md) | 06.02–13.02 | 3 790 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
+| [Pure Austrian Powder](https://snowshow.pl/wyjazdy/austria/dachstein-west/13-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west-krippenstein/README.md) | 13.02–20.02 | 4 190 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
+| [Austria Peak Performance](https://snowshow.pl/wyjazdy/austria/dachstein-west/20-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west-krippenstein/README.md) | 20.02–27.02 | 4 090 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
+| [Austrian Madness](https://snowshow.pl/wyjazdy/austria/dachstein-west/27-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west-krippenstein/README.md) | 27.02–06.03 | 3 390 zł | 6 | Domki z kuchnią, sauna i basen | Wszystkie trzy |
+| [Austrian Snow Adventure](https://snowshow.pl/wyjazdy/austria/nassfeld/28-02-2027) | [Nassfeld](../../../kraje/austria/nassfeld/README.md) | 28.02–06.03 | 3 590 zł | 5 | Apartamenty premium lub hotel 4★ | Wszystkie trzy |
 
 ## [Słowenia](../../../kraje/slowenia/README.md) — 2 wyjazdy
 
-| Wyjazd i ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
-| --- | --- | ---: | ---: | --- | --- |
-| [Slovenian Adventure](https://snowshow.pl/wyjazdy/slowenia/kranj-krvavec/06-02-2027) — [Kranj / Krvavec](../../../kraje/slowenia/krvavec/README.md) | 06.02–12.02 | 2 640 zł | 6 | Hotel 4★ ze śniadaniami i obiadokolacjami | Student i Plus |
-| [Slovenian Paradise](https://snowshow.pl/wyjazdy/slowenia/kranj-krvavec/20-02-2027) — [Kranj / Krvavec](../../../kraje/slowenia/krvavec/README.md) | 20.02–26.02 | 2 640 zł | 6 | Hotel 4★ ze śniadaniami i obiadokolacjami | Student i Plus |
+| Wyjazd | Ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
+| --- | --- | --- | ---: | ---: | --- | --- |
+| [Slovenian Adventure](https://snowshow.pl/wyjazdy/slowenia/kranj-krvavec/06-02-2027) | [Krvavec](../../../kraje/slowenia/krvavec/README.md) | 06.02–12.02 | 2 640 zł | 6 | Hotel 4★ ze śniadaniami i obiadokolacjami | Student i Plus |
+| [Slovenian Paradise](https://snowshow.pl/wyjazdy/slowenia/kranj-krvavec/20-02-2027) | [Krvavec](../../../kraje/slowenia/krvavec/README.md) | 20.02–26.02 | 2 640 zł | 6 | Hotel 4★ ze śniadaniami i obiadokolacjami | Student i Plus |
 
 ## [Szwajcaria](../../../kraje/szwajcaria/README.md) — 2 wyjazdy
 
-| Wyjazd i ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
-| --- | --- | ---: | ---: | --- | --- |
-| [So Swiss](https://snowshow.pl/wyjazdy/szwajcaria/verbier/19-02-2027) — [Verbier / La Tzoumaz](../../../kraje/szwajcaria/verbier-la-tzoumaz/README.md) | 19.02–28.02 | 3 890 zł | 6 | Apartamenty 3★ przy kolejce | Wszystkie trzy |
-| [Swiss Powder Paradise](https://snowshow.pl/wyjazdy/szwajcaria/verbier/26-02-2027) — [Verbier / La Tzoumaz](../../../kraje/szwajcaria/verbier-la-tzoumaz/README.md) | 26.02–07.03 | 4 190 zł | 6 | Apartamenty 3★ przy kolejce | Wszystkie trzy |
+| Wyjazd | Ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
+| --- | --- | --- | ---: | ---: | --- | --- |
+| [So Swiss](https://snowshow.pl/wyjazdy/szwajcaria/verbier/19-02-2027) | [Verbier / La Tzoumaz](../../../kraje/szwajcaria/verbier-la-tzoumaz/README.md) | 19.02–28.02 | 3 890 zł | 6 | Apartamenty 3★ przy kolejce | Wszystkie trzy |
+| [Swiss Powder Paradise](https://snowshow.pl/wyjazdy/szwajcaria/verbier/26-02-2027) | [Verbier / La Tzoumaz](../../../kraje/szwajcaria/verbier-la-tzoumaz/README.md) | 26.02–07.03 | 4 190 zł | 6 | Apartamenty 3★ przy kolejce | Wszystkie trzy |
 
 ## [Bośnia i Hercegowina](../../../kraje/bosnia-i-hercegowina/README.md) — 1 wyjazd
 
-| Wyjazd i ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
-| --- | --- | ---: | ---: | --- | --- |
-| [Balkan Snow Expedition](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027) — [Jahorina](../../../kraje/bosnia-i-hercegowina/jahorina/README.md) | 05.02–14.02 | 3 590 zł | 6 | Hotel 4★ przy stoku; opłata za posiłki do wyjaśnienia | Wszystkie trzy |
+| Wyjazd | Ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
+| --- | --- | --- | ---: | ---: | --- | --- |
+| [Balkan Snow Expedition](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027) | [Jahorina](../../../kraje/bosnia-i-hercegowina/jahorina/README.md) | 05.02–14.02 | 3 590 zł | 6 | Hotel 4★ przy stoku; opłata za posiłki do wyjaśnienia | Wszystkie trzy |
 
 ## Porównaj ośrodki narciarskie
 
