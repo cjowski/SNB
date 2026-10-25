@@ -81,6 +81,8 @@ Tu zostają **terminy, ceny, dni jazdy, noclegi i dopłaty konkretnych wyjazdów
 
 ## Koszty poza ceną „od”
 
+**[Jak policzyć jedzenie i porównać pakiety wyżywienia](budzet-wyzywienia.md)** — osobne zestawienie wariantów żywienia i dopłat. Poniżej zostają kwoty samych ofert, inne obowiązkowe koszty i kaucje.
+
 Ubezpieczenie, pościel, sprzątanie, lokalna opłata turystyczna, dopłata do pokoju lub wyżywienie mogą znacząco zmienić cenę. **Kaucja zwrotna jest osobnym wydatkiem na początku, ale nie kosztem końcowym, jeśli zostanie zwrócona.** Bilety lotnicze i wydatki osobiste są oddzielne.
 
 Poniższa tabela zawiera **dokładniej rozpisane, lecz nadal orientacyjne koszty tylko 10 ofert z wcześniejszej analizy**. **Pozostałych 13 ofert — w tym wyjazdów do Włoch, Austrii i Słowenii — jeszcze nie porównano kosztowo na jednakowych zasadach. Nie należy z tego powodu uznawać pierwszej dziesiątki za tańszą lub lepszą.**
