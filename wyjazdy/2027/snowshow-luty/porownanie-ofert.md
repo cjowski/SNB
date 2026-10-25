@@ -40,7 +40,7 @@ Ceny są **promocyjnymi kwotami „od” podanymi przez SnowShow**, z oznaczenie
 | [Austrian Expedition](https://snowshow.pl/wyjazdy/austria/dachstein-west/06-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west/README.md) / [Krippenstein](../../../kraje/austria/krippenstein/README.md) | 06.02–13.02 | 3 790 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
 | [Pure Austrian Powder](https://snowshow.pl/wyjazdy/austria/dachstein-west/13-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west/README.md) / [Krippenstein](../../../kraje/austria/krippenstein/README.md) | 13.02–20.02 | 4 190 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
 | [Austria Peak Performance](https://snowshow.pl/wyjazdy/austria/dachstein-west/20-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west/README.md) / [Krippenstein](../../../kraje/austria/krippenstein/README.md) | 20.02–27.02 | 4 090 zł | 6 | Domki z kuchnią, sauna i basen | Oldschool |
-| [Austrian Madness](https://snowshow.pl/wyjazdy/austria/dachstein-west/27-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west/README.md) / [Krippenstein](../../../kraje/austria/krippenstein/README.md) | 27.02–06.03 | 3 390 zł | 6 | Domki z kuchnią, sauna i basen | Wszystkie trzy |
+| [Austrian Madness](https://snowshow.pl/wyjazdy/austria/dachstein-west/27-02-2027) | [Dachstein West](../../../kraje/austria/dachstein-west/README.md) / [Krippenstein](../../../kraje/austria/krippenstein/README.md) | 27.02–06.03 | 3 390 zł | 6 | Domki z kuchnią; osobny pokój hotelowy 2-os. za dopłatą, z obowiązkowym HB | Wszystkie trzy |
 | [Austrian Snow Adventure](https://snowshow.pl/wyjazdy/austria/nassfeld/28-02-2027) | [Nassfeld](../../../kraje/austria/nassfeld/README.md) | 28.02–06.03 | 3 590 zł | 5 | Apartamenty premium lub hotel 4★ | Wszystkie trzy |
 
 ## [Słowenia](../../../kraje/slowenia/README.md) — 2 wyjazdy
@@ -75,7 +75,7 @@ Tu zostają **terminy, ceny, dni jazdy, noclegi i dopłaty konkretnych wyjazdów
 - **Włochy / 3 Zinnen:** Hotel jest opisany jako „z wyżywieniem”, lecz dla [Dolce Siesta Dolomiti](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/31-01-2027) karta pokazuje **obowiązkowe 135 EUR za śniadania i obiadokolacje** oraz **18 EUR opłaty turystycznej**. W podstawowym hotelu do stoków jedzie się autokarem ok. **25 minut**; poszczególne pokoje mają osobne dopłaty. Podobne warunki dla pozostałych terminów należy potwierdzić przed porównaniem cen całkowitych.
 - **Włochy / Civetta:** 6 dni karnetu, apartamenty z aneksem kuchennym ok. 200 m od stoku. Dobre uzupełnienie oferty 3 Zinnen, jeśli zależy nam na 6 dniach jazdy.
 - **Słowenia / Krvavec:** **6-dniowy karnet** mimo krótszego kalendarzowo wyjazdu. Hotel 4★ w Kranju oferuje śniadania i obiadokolacje; do stoku trzeba dojechać.
-- **Austria / Dachstein West:** 6-dniowy karnet, domki z kuchnią, basen i sauna. Trzy lutowe terminy są tylko dla grupy Oldschool.
+- **Austria / Dachstein West:** 6-dniowy karnet, domki z kuchnią, basen i sauna. Trzy lutowe terminy są tylko dla grupy Oldschool. W [Austrian Madness (27.02)](https://snowshow.pl/wyjazdy/austria/dachstein-west/27-02-2027) dostępny jest również **pokój hotelowy 2-os. z dopłatą 800 PLN/os. oraz obowiązkowym HB 280 EUR/os.**; w domku pakiety śniadań 111 EUR lub HB 280 EUR są **opcjonalne**. **Odczyt tego wariantu: 2026-10-25.** Nie przenosimy tych warunków automatycznie na inne terminy.
 - **Francja / Risoul:** w **Only Snow Vibes** najniższa cena dotyczy tańszych, starszych apartamentów **2★**, nie opcji luksusowej **4★**.
 - **Szwajcaria / Verbier:** podstawowy karnet obejmuje mniejszy obszar niż całe 4 Doliny; szerszy dostęp jest za dopłatą.
 
@@ -83,7 +83,7 @@ Tu zostają **terminy, ceny, dni jazdy, noclegi i dopłaty konkretnych wyjazdów
 
 **Ponowny odczyt wybranego warunku:** 2026-10-25 — [Balkan Snow Expedition, Jahorina](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027). **Zakres:** opłata startowo-serwisowa **37 EUR** oraz **235 EUR za HB** w wykazie opłat obowiązkowych. Pozostałe dane poniższej tabeli mają wcześniejszą datę odczytu z nagłówka; nie były ponownie weryfikowane wszystkie naraz.
 
-**[Jak policzyć jedzenie i porównać pakiety wyżywienia](budzet-wyzywienia.md)** — osobne zestawienie wariantów żywienia i dopłat. Poniżej zostają kwoty samych ofert, inne obowiązkowe koszty i kaucje.
+**[Jak policzyć jedzenie i porównać pakiety wyżywienia](budzet-wyzywienia.md)** — osobne zestawienie wariantów żywienia i dopłat. Poniżej zostają kwoty samych ofert, inne obowiązkowe koszty i kaucje. **Pakiet HB wyszczególniony już tutaj jako obowiązkowa dopłata (np. Jahorina: 235 EUR/os.) wliczamy do łącznego kosztu tylko raz; budżet wydatków dodatkowych obejmuje wtedy posiłki poza HB.**
 
 Ubezpieczenie, pościel, sprzątanie, lokalna opłata turystyczna, dopłata do pokoju lub wyżywienie mogą znacząco zmienić cenę. **Kaucja zwrotna jest osobnym wydatkiem na początku, ale nie kosztem końcowym, jeśli zostanie zwrócona.** Bilety lotnicze i wydatki osobiste są oddzielne.
 
