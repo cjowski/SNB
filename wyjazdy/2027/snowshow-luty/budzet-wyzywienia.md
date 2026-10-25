@@ -4,7 +4,7 @@
 **Źródło:** karty SnowShow: [3 Zinnen, 31.01](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/31-01-2027), [Dachstein West, 27.02](https://snowshow.pl/wyjazdy/austria/dachstein-west/27-02-2027), [Krvavec, 06.02](https://snowshow.pl/wyjazdy/slowenia/kranj-krvavec/06-02-2027), [Jahorina, 05.02](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027); pozostałe propozycje według [porównania ofert](porownanie-ofert.md) (odczyt 2026-10-11)  
 **Zakres:** sposób liczenia wyżywienia na osobę, warianty gotowania i jedzenia poza noclegiem, potwierdzone lub wymagające sprawdzenia dopłaty za posiłki w wybranych ofertach lutowych SnowShow. **Nie** są to ostateczne koszty 23 wyjazdów ani aktualizacja wszystkich cen podstawowych.
 
-Ten dokument pomaga zaplanować **pieniądze na jedzenie oprócz ceny organizatora**. Najpierw ustalamy, co jest wliczone w nocleg i czy da się gotować. Dopiero potem porównujemy ceny zakupów i lokali. Ogólne dane o supermarketach i restauracjach — bez szczegółów ofert — znajdują się w [porównaniu kosztów na miejscu](../../../porownania/koszty-na-miejscu.md).
+Ten dokument pomaga zaplanować **łączny koszt wyżywienia oraz wydatki na jedzenie, które pozostają do dopłaty**. Najpierw ustalamy, co jest wliczone w nocleg, co już zapisano jako obowiązkową dopłatę do wyjazdu i czy da się gotować. Dopiero potem porównujemy ceny zakupów i lokali. Ogólne dane o supermarketach i restauracjach — bez szczegółów ofert — znajdują się w [porównaniu kosztów na miejscu](../../../porownania/koszty-na-miejscu.md).
 
 **Ważne:** nie wybraliśmy jeszcze terminu, liczby osób, pokoju ani budżetu. Ceny „od” w [porównaniu 23 wyjazdów](porownanie-ofert.md) mają wcześniejsze daty odczytu i obejmują również promocję, której termin już minął. Nie uznajemy ich za potwierdzoną dzisiejszą cenę. Liczba dni karnetu **nie** oznacza automatycznie takiej samej liczby śniadań lub noclegów.
 
@@ -20,7 +20,8 @@ Poniższe informacje dotyczą **konkretnych kart lub typów noclegu**. Warunki i
 | [Orelle — Snowy Nomads](https://snowshow.pl/wyjazdy/francja/orelle/29-01-2027) | 6 | Apartamenty; posiłki wliczone **do sprawdzenia** | Sprawdzić faktyczną kuchnię i sklep w **Orelle**, nie przy drogich restauracjach Val Thorens. |
 | [La Plagne — French Ski & Chill](https://snowshow.pl/wyjazdy/francja/la-plagne/29-01-2027) | 6 | Apartamenty; wyżywienie **do sprawdzenia** | Ustalić, w której części La Plagne znajduje się nocleg i najbliższy sklep. |
 | [Risoul / Vars — French Week i pozostałe warianty](porownanie-ofert.md) | 6 | Apartamenty różnej klasy; posiłki **do sprawdzenia** | Nie przenosić cen sklepów z Risoul do Vars; dla „Only Snow Vibes” wariant 2★ różni się od 4★. |
-| [Dachstein West — Austrian Madness](https://snowshow.pl/wyjazdy/austria/dachstein-west/27-02-2027) | 6 | Domki z kuchnią: **samodzielne wyżywienie**; **opcjonalnie** same śniadania **111 EUR/os.** albo HB **280 EUR/os.** (6 dni) | Porównać zakupy z ceną usług. Nie dodawać **111 + 280 EUR** — to alternatywne warianty, nie dwie obowiązkowe opłaty. |
+| [Dachstein West — Austrian Madness, domek](https://snowshow.pl/wyjazdy/austria/dachstein-west/27-02-2027) | 6 | Domek z kuchnią: **samodzielne jedzenie**, opcjonalne **śniadania 111 EUR/os.** albo **HB 280 EUR/os.** (6 dni) | To **warianty do wyboru**. Nie sumować 111 i 280 EUR; doliczyć tylko wybrany pakiet oraz posiłki poza nim. |
+| [Dachstein West — Austrian Madness, pokój hotelowy 2-os.](https://snowshow.pl/wyjazdy/austria/dachstein-west/27-02-2027) | 6 | **Obowiązkowe HB 280 EUR/os.** na 6 dni; ponadto dopłata **800 PLN/os. za pokój**, czyli koszt noclegu, nie wyżywienia | Przy hotelu **nie** zakładać gotowania bez HB. Przy niepełnym obłożeniu hotelowego pokoju dopłata za wolne łóżko jest dodatkowa (wg karty: 1600 PLN); sprawdzić dostępność i końcowy koszt. |
 | [Nassfeld — Austrian Snow Adventure](https://snowshow.pl/wyjazdy/austria/nassfeld/28-02-2027) | 5 | Apartament premium **lub** hotel 4★; zakres posiłków **do potwierdzenia osobno dla noclegu** | Nie zakładać tej samej kuchni i tego samego wyżywienia dla obu wariantów. |
 | [Krvavec — Slovenian Adventure](https://snowshow.pl/wyjazdy/slowenia/kranj-krvavec/06-02-2027) | 6 | **Śniadania i obiadokolacje HB w cenie** opisanego pobytu w hotelu Creina w Kranju | Zasadniczo obiady na 6 dni jazdy, napoje i przekąski; hotelowych śniadań i kolacji nie wyceniać drugi raz. |
 | [Verbier / La Tzoumaz — So Swiss](https://snowshow.pl/wyjazdy/szwajcaria/verbier/19-02-2027) | 6 | Apartamenty; posiłki **do sprawdzenia** | Rozdzielić ceny zakupów w La Tzoumaz od cen restauracji w Verbier. |
@@ -39,7 +40,7 @@ Aby porównać opcje, na początek przyjmujemy wyłącznie **przykładowy rozkł
 | **Restauracyjny** | 6 kupionych lub w hotelu | 6 kupionych | 6 kupionych | Brak konieczności gotowania, ale wyższa zależność od restauracji |
 | **HB już opłacone** | 6 hotelowych* | 6 kupionych lub z prowiantu | 6 hotelowych* | **Tylko jeśli** zakres i liczba posiłków HB są takie jak w wybranej ofercie |
 
-\*W modelu przyjęto sześć śniadań i obiadokolacji dla prostoty. Rzeczywistą liczbę trzeba uzyskać z dat hotelowych. Zakupione HB ma **koszt pakietu**, ale nie wymaga ponownego wpisania osobnej ceny śniadania czy kolacji.
+\*W modelu przyjęto sześć śniadań i obiadokolacji dla prostoty. Rzeczywistą liczbę trzeba uzyskać z dat hotelowych. **HB opłacone lub już doliczone do kosztów obowiązkowych** zapewnia posiłki w zakresie pakietu; nie doliczamy osobno ich cen ani całej kwoty HB po raz drugi.
 
 ### Jak z tego policzyć kwotę — bez wymyślonych cen
 
@@ -49,10 +50,10 @@ Dla każdej kategorii wpisujemy **ilość × potwierdzona cena jednostkowa**, za
 - Obiady na stoku: liczba faktycznie kupowanych posiłków × cena porównywalnego dania. Menu lunchowe w miejscowości nie jest automatycznie dostępne na stoku.
 - Restauracje wieczorem: liczba kolacji poza noclegiem × odpowiednia cena.
 - Napoje, przekąski i jedzenie w podróży: osobna pozycja, nie ukrywać ich pod „obiad”.
-- Pakiet HB: **całkowita opłata za wyżywienie z karty** (obowiązkowa albo wybrana dobrowolnie) i osobno dodatkowe posiłki.
+- Pakiet HB: **całkowitą opłatę wpisujemy tylko raz** — w kosztach obowiązkowych wyjazdu, jeżeli pakiet jest wymagany, albo jako wybraną opcję dodatkową. Jeśli widnieje już w [porównaniu ofert](porownanie-ofert.md), **nie doliczamy jej ponownie** do sumy; w budżecie dodatkowym pozostają tylko posiłki i napoje poza HB.
 - Waluty: **PLN, EUR, CHF i BAM pozostają oddzielnie** do czasu podania kursu i daty przeliczenia.
 
-Zsumować można dopiero wartości w tej samej walucie; **kaucja zwrotna** to osobna gotówka potrzebna na początku, nie koszt wyżywienia. Wszystkie inne obowiązkowe dopłaty, ubezpieczenie i koszt pokoju pozostają w [porównaniu ofert](porownanie-ofert.md).
+Zsumować można dopiero wartości w tej samej walucie; **kaucja zwrotna** to osobna gotówka potrzebna na początku, nie koszt wyżywienia. **Nie wolno sumować „kosztów obowiązkowych” z tabeli ofert z całkowitym kosztem żywienia bez odjęcia już zawartego tam HB.** Ubezpieczenie, pozostałe obowiązkowe dopłaty i koszt pokoju pozostają w [porównaniu ofert](porownanie-ofert.md).
 
 ## 3. Przykład obliczenia na podstawie prawdziwej opłaty
 
@@ -66,7 +67,7 @@ Zsumować można dopiero wartości w tej samej walucie; **kaucja zwrotna** to os
 | Posiłki w podróży lub poza zakresem HB | Według godzin przejazdu i usług hotelu |
 | **Budżet wyżywienia** | **135 EUR + obiady + napoje/przekąski + jedzenie poza HB** |
 
-To **nie jest pełna cena wyjazdu**. Nie należy porównywać 135 EUR z wydatkami w apartamencie bez policzenia zakupów, lunchów i czasu pobytu.
+To **nie jest pełna cena wyjazdu**. Jeżeli **135 EUR** za obowiązkowe HB uwzględniono już w kosztach wyjazdu, przy dodawaniu wydatków na miejscu **nie dodajemy tej kwoty drugi raz**. Nie należy też porównywać 135 EUR z wydatkami w apartamencie bez policzenia zakupów, lunchów i czasu pobytu.
 
 ### Co już można porównać liczbowo
 
@@ -75,10 +76,13 @@ Warianty posiłków oferowane przez organizatora, bez sumowania z nieporównywal
 | Sprawdzony wariant | Kwota na osobę | Co obejmuje |
 | --- | ---: | --- |
 | 3 Zinnen — HB w terminie 31.01 | **135 EUR** | Hotelowe śniadania i obiadokolacje, dopłata obowiązkowa |
-| Dachstein West — same śniadania w terminie 27.02 | **111 EUR** | Opcja dodatkowa zamiast gotowania śniadań |
-| Dachstein West — HB w terminie 27.02 | **280 EUR** | Opcja dodatkowa: śniadania i obiadokolacje przez 6 dni |
+| Dachstein West — same śniadania w domku, termin 27.02 | **111 EUR** | Opcja dodatkowa zamiast gotowania śniadań; **nie dotyczy** hotelowego pokoju z obowiązkowym HB |
+| Dachstein West — HB w domku, termin 27.02 | **280 EUR** | Opcjonalne śniadania i obiadokolacje przez 6 dni |
+| Dachstein West — HB w pokoju hotelowym 2-os., termin 27.02 | **280 EUR** | **Obowiązkowe** śniadania i obiadokolacje; dodatkowo **800 PLN/os. za pokój** (koszt zakwaterowania, poza kolumną wyżywienia) |
 | Krvavec — hotel Creina w terminie 06.02 | **w cenie wyjazdu** | Śniadania i obiadokolacje, nie doliczać pakietu po raz drugi |
 | Jahorina — HB w terminie 05.02 | **235 EUR** | Pakiet śniadań i obiadokolacji wskazany jako obowiązkowy; potwierdzić w rezerwacji |
+
+**Przykład Jahoriny:** w [porównaniu ofert](porownanie-ofert.md) zapisano **37 EUR opłat pozostałych oraz 235 EUR obowiązkowego HB**. Jeśli liczymy razem cenę wyjazdu i wydatki na jedzenie, kwotę **235 EUR ujmujemy tylko w kosztach obowiązkowych**, a do dalszych wydatków na wyżywienie dopisujemy wyłącznie obiady, napoje, przekąski i posiłki poza HB. Analogicznie przy hotelowym pokoju Dachstein West pakiet 280 EUR liczy się raz, nie jako koszt obowiązkowy **i** drugi raz jako budżet jedzenia.
 
 Nawet kwoty 135, 235 i 280 EUR **nie stanowią rankingu opłacalności**: mogą obejmować różną liczbę dni i różne warunki.
 
