@@ -2,7 +2,7 @@
 
 **Data odczytu:** 2026-10-25  
 **Źródło:** [Statistics Norway — poziomy cen w Europie, dane Eurostat za 2025 r.](https://www.ssb.no/en/priser-og-prisindekser/konsumpriser/statistikk/sammenlikning-av-prisniva-i-europa) oraz lokalne cenniki podlinkowane przy przykładach  
-**Zakres:** porównywalny wskaźnik cen żywności w sześciu krajach SNB oraz przykładowe ceny pojedynczych dań w wybranych miejscowościach narciarskich. Nie obejmuje cen noclegów, karnetów ani ofert organizatorów.
+**Zakres:** porównywalny wskaźnik cen żywności w sześciu krajach SNB, wskazane miejsca zakupów dla 12 obszarów narciarskich, przykładowe ceny wybranych produktów i dań. Nie obejmuje cen noclegów, karnetów ani ofert organizatorów.
 
 Cena samego wyjazdu nie mówi, ile wydamy na jedzenie. **Zakupy w supermarkecie, restauracja w miejscowości i posiłek na stoku to trzy różne wydatki.** Poniżej rozdzielamy średnie krajowe od konkretnych lokalnych cenników.
 
@@ -26,24 +26,56 @@ Wskaźnik poziomu cen żywności i napojów bezalkoholowych za **2025 r.**, gdzi
 
 **Wniosek:** zakupy w Szwajcarii są na poziomie kraju wyraźnie droższe niż w pozostałych porównywanych państwach. W kurortach górskich ceny mogą odbiegać od średniej krajowej w każdą stronę. Na potrzeby praktycznych zakupów potrzebny jest koszyk produktów z konkretnych sklepów.
 
+## Gdzie zrobić zakupy w poszczególnych rejonach
+
+Poniżej są **rzeczywiste punkty zakupowe lub regionalne alternatywy**, a nie gwarantowana lista sklepów w odległości spaceru od zakwaterowania. Przy grupowym wyjeździe najpierw sprawdź **miejscowość noclegu**, następnie dojazd do sklepu i jego godziny w terminie pobytu. Wysokogórski minimarket i supermarket w dolinie mogą mieć zupełnie inne ceny.
+
+| Ośrodek / rejon | Sklep i miejscowość | Na co zwrócić uwagę |
+| --- | --- | --- |
+| [3 Zinnen](../kraje/wlochy/3-zinnen/README.md) | [Conad City, Piazza Parrocchia 1, Dobbiaco](https://www.conad.it/ricerca-negozi/conad-city-piazza-parrocchia-1-39034-dobbiaco--010691) | Sklep w Dobbiaco, **nie na stoku**; hotel może znajdować się gdzie indziej. |
+| [Civetta](../kraje/wlochy/civetta/README.md) | [Coop, Via Monte Pape 1/C, Alleghe](https://www.cooptrentinoaltoadige.it/negozi-e-volantini/420151-alleghe) | Opublikowany cennik produktów promocyjnych; promocje i godziny nie muszą obowiązywać w lutym. |
+| [Montgenèvre](../kraje/francja/montgenevre/README.md) | [SPAR, Résidence Le Napoléon, Route d’Italie](https://montgenevre.com/prestataire/spar-montgenevre-271278) | Sklep w kurorcie; dla dużych zakupów można osobno sprawdzić ofertę [Intermarché w Briançon](https://www.intermarche.com/magasins/11607/briancon-05100/infos-pratiques) i transport. |
+| [Orelle / Val Thorens](../kraje/francja/orelle-val-thorens/README.md) | [Orelle's Shop, Hameau des Eaux d’Orelle](https://www.orelle.net/fiche/village/commerces-et-services/312031) | **Orelle**, a nie Val Thorens; przy noclegu po drugiej stronie góry potrzebny inny sklep. |
+| [La Plagne](../kraje/francja/la-plagne/README.md) | [SPAR, Plagne Centre](https://www.la-plagne.com/decouvrir-la-plagne/le-patrimoine/gastronomie/gastronomie-et-produits-locaux/superette-spar-plagne-centre); [SPAR, Belle Plagne haut](https://www.la-plagne.com/decouvrir-la-plagne/le-patrimoine/gastronomie/gastronomie-et-produits-locaux/superette-spar-belle-plagne-haut) | Różne osady. Dla Belle Plagne haut opublikowano sezonowe otwarcie **10.12.2026–18.04.2027**. |
+| [Risoul / Vars](../kraje/francja/risoul-vars/README.md) | [Carrefour Montagne, 30 Route du Dahu, Risoul 1850](https://www.risoul.com/risoul/carrefour-montagne.html); [Sherpa, Vars Les Claux](https://www.vars.com/fr/offres/sherpa-supermarche-vars-fr-3590224/) | To **dwie miejscowości i dwa sklepy**; uwzględnić miejsce noclegu. |
+| [Dachstein West](../kraje/austria/dachstein-west/README.md) | [Sklep spożywczy w Gosau; większe markety w Bad Goisern (informacja turystyczna)](https://www.gosautal.net/service/aktuelles/) | Turystyka regionalna wskazuje większy wybór w Bad Goisern; konkretny sklep w Gosau i dojazd wymagają ustalenia. |
+| [Krippenstein](../kraje/austria/krippenstein/README.md) | [Sklepy w rejonie Obertraun / Bad Goisern (informacja regionalna)](https://www.gosautal.net/service/aktuelles/) | Krippenstein jest w Obertraun, **nie** w Gosau; Bad Goisern to alternatywa wymagająca dojazdu. |
+| [Nassfeld](../kraje/austria/nassfeld/README.md) | [ADEG Filippitsch, Tröpolach](https://adeg-filippitsch.at/); [ADEG Nassfeld, Sonnenalpe Nassfeld 5](https://www.nassfeld.at/de/Service/Nassfeld-A-Z/Lebensmittelmarkt-ADEG-Nassfeld_az_30427) | Zakupy w dolinie (Tröpolach) i wysoko na przełęczy to różne lokalizacje. |
+| [Krvavec](../kraje/slowenia/krvavec/README.md) | [Mercator, Savski otok, Stara cesta 25c, Kranj](https://www.mercator.si/prodajna-mesta/hipermarket-kranj-savski-otok/) | Kranj jest bazą noclegową opisanego wyjazdu, **nie** miejscowością przy górnej stacji Krvavca. |
+| [Verbier / La Tzoumaz](../kraje/szwajcaria/verbier-la-tzoumaz/README.md) | [Marché La Tzoumaz, Rue Centrale 8](https://www.verbier.ch/pratique/shop-magasins-et-boutique/marche-la-tzoumaz-la-tzoumaz-fr-2921704/) | Sklep w La Tzoumaz; ceny sieci z innych regionów Szwajcarii nie są cenami tej placówki. |
+| [Jahorina](../kraje/bosnia-i-hercegowina/jahorina/README.md) | [Mix Market, Karađorđeva 50, Pale](https://jahorina-booking.com/mix-market-pale/) | **Pale, nie stoki Jahoriny**; sprawdzić dostęp do sklepu z hotelu i koszty przejazdu. |
+
+### Przykłady cen w sklepach — bez udawania pełnego koszyka
+
+| Lokalizacja i źródło | Produkt / usługa sklepu | Cena podana przez źródło | Jak odczytać |
+| --- | --- | ---: | --- |
+| [Coop Alleghe](https://www.cooptrentinoaltoadige.it/negozi-e-volantini/420151-alleghe) | Świeży makaron nadziewany Rana, **250 g** | **3,79 EUR regularnie / 2,25 EUR w promocji** | Cena **konkretnego markowego produktu**, nie zwykłego suchego makaronu 500 g; data zakończenia promocji do sprawdzenia. |
+| [Coop Alleghe](https://www.cooptrentinoaltoadige.it/negozi-e-volantini/420151-alleghe) | Gotowa sałatka z kurczakiem AIA, **300 g** | **5,99 EUR regularnie / 3,59 EUR w promocji** | Gotowy produkt; nie stanowi ceny 1 kg surowego mięsa. |
+| [ADEG Filippitsch, Tröpolach](https://adeg-filippitsch.at/online-bestellen/) | Talerz wędlin i serów **Wurst-Käseplatte**, cena za **1 kg** | **24,90 EUR/kg** | Oferta delikatesowa na zamówienie, **nie** cena kilograma zwykłego sera. |
+| [Sherpa, Vars](https://www.vars.com/fr/offres/sherpa-supermarche-vars-fr-3590224/) | Zestaw produktów do raclette / fondue | **od 8 EUR / od 6 EUR za osobę** | Cena **„od”** na zestaw do przygotowania posiłku; nie restauracja ani cały dzienny koszt wyżywienia. |
+
+**Stan odczytu powyższych stron:** 2026-10-25. Internetowe ceny i promocje mogą być nieaktualne w tygodniu wyjazdu, także gdy strona sklepu nadal je pokazuje. Nie ma wystarczająco jednolitych, aktualnych cen produktów z każdego rejonu, aby uczciwie policzyć koszyk dla 12 ośrodków.
+
 ## Przykładowe ceny w miejscowościach narciarskich
 
 **Każda kwota to cena jednej wskazanej pozycji w jednym lokalu, nie przeciętna cena w całym regionie.** Jedzenie w miejscowości nie zawsze kosztuje tyle samo co na stoku. Zachowujemy oryginalne waluty i rozróżniamy miejsca na stoku, w kurorcie oraz w miejscowościach noclegowych.
 
 | Ośrodek / rejon | Miejsce i przykład | Cena | Gdzie / uwaga |
 | --- | --- | ---: | --- |
-| [3 Zinnen](../kraje/wlochy/3-zinnen/README.md) | [Bistro w serowarni Drei Zinnen](https://3zinnen.it/en/bistro.html) — tagliatelle z sosem grzybowym | **16,50 EUR** | Dobbiaco, **w miejscowości**, menu z jesieni 2026; nie cena na stoku |
-| [Civetta](../kraje/wlochy/civetta/README.md) | **Do sprawdzenia** | — | Alleghe / Zoldo: ceny sklepu i posiłków |
+| [3 Zinnen](../kraje/wlochy/3-zinnen/README.md) | [Bistro w serowarni Drei Zinnen](https://3zinnen.it/en/bistro.html) — domowe żytnie ravioli z ziemniakami, porem i boczkiem | **16,50 EUR** | Dobbiaco, **w miejscowości**, menu z jesieni 2026; nie cena na stoku |
+| [Civetta](../kraje/wlochy/civetta/README.md) | [Pizzeria San Marco](https://www.qodeup.com/index.php/home/index/ristorantepizzeriasanmarco/en) — pizza Margherita | **8,00 EUR** | Caprile di Alleghe, **w miejscowości**; cena z internetowego menu, sezon 2026/27 do potwierdzenia. |
 | [Montgenèvre](../kraje/francja/montgenevre/README.md) | [Les Escartons](https://www.restaurant-montgenevre.fr/en/menus.html) — burger z frytkami | **16,90 EUR** | Restauracja w miejscowości; aktualność zimą do potwierdzenia |
 | [Orelle / Val Thorens](../kraje/francja/orelle-val-thorens/README.md) | [Le Jasper](https://www.restaurant-lejasper-valthorens.com/) — cheeseburger z frytkami | **26,00 EUR** | **Val Thorens**, nie Orelle; nie traktować jako ceny obiadu w miejscowości noclegowej |
-| [La Plagne](../kraje/francja/la-plagne/README.md) | **Do sprawdzenia** | — | Menu zimowe w miejscowości i na stoku |
+| [La Plagne](../kraje/francja/la-plagne/README.md) | [Le P'tit Bouchon](https://www.la-plagne.com/savourez-une-multitude-d-activites/sortir-a-la-plagne/restaurants/le-p-tit-bouchon) — menu dnia: przystawka, danie i deser | **19,00 EUR** | **Plagne Centre**; oferta przedstawiana na okres **12.12.2026–24.04.2027**, dostępność i cenę w dniu wizyty trzeba potwierdzić. |
 | [Risoul / Vars](../kraje/francja/risoul-vars/README.md) | [Le Clos Fournier](https://risoul.labellemontagne.com/fr/ete/restauration/clos-fournier/) — burger dnia | **18,00 EUR** | Restauracja **na stoku w Risoul**, pozycja opisana jako oferta zimowa; ceny dla Vars osobno do sprawdzenia |
-| [Dachstein West](../kraje/austria/dachstein-west/README.md) | **Do sprawdzenia** | — | Gosau / Rußbach / Annaberg; nie utożsamiać z Krippenstein |
+| [Dachstein West](../kraje/austria/dachstein-west/README.md) | [go-gosau ALM](https://www.gogosau.at/) — serowe szpecle (Käsespätzle) z cebulą, [menu PDF](https://www.gogosau.at/data/gogosau_speisekarte.pdf) | **18,50 EUR** | Schronisko **na Hornspitz, Gosau**; **cennik wcześniejszego sezonu**, obowiązywanie od grudnia 2026 do potwierdzenia. |
 | [Krippenstein](../kraje/austria/krippenstein/README.md) | [Lodge am Krippenstein](https://www.lodge.at/restaurant/) — menu dwudaniowe | **26,50 EUR** | Restauracja górska; menu, nie cena pojedynczego dania |
-| [Nassfeld](../kraje/austria/nassfeld/README.md) | **Do sprawdzenia** | — | Sonnleitn / Tröpolach i gastronomia na stoku |
-| [Krvavec](../kraje/slowenia/krvavec/README.md) | [Pizzeria Picanto](https://www.picanto.si/ponudba/) — pizza Margherita, wariant od | **9,70 EUR** | **Kranj**, miejscowość noclegowa; nie cena gastronomii na Krvavcu |
+| [Nassfeld](../kraje/austria/nassfeld/README.md) | [Jokl's Hütte](https://www.nassfeld.at/pl/Jokls-Hutte_az_30326) — gastronomia na stoku; **cena dania do sprawdzenia** | — | Znaleziono punkt gastronomiczny, ale **brak potwierdzonego cennika posiłków** na sezon 2026/27. |
+| [Krvavec](../kraje/slowenia/krvavec/README.md) | [Hotel Krvavec — oficjalny cennik 2026/27](https://www.rtc-krvavec.si/price-list-schedule) — **dodatkowy obiad lub kolacja** | **25,00 EUR** | Oferta żywienia hotelowego **na Krvavcu**, nie typowe danie à la carte. Dodatkowe śniadanie 17 EUR. |
 | [Verbier / La Tzoumaz](../kraje/szwajcaria/verbier-la-tzoumaz/README.md) | [Auberge La Tzoumaz](https://www.verbier.ch/pratique/taste-restaurants-et-bars/auberge-la-tzoumaz-la-tzoumaz-fr-2923521/) — trzydaniowe menu w dni robocze | **20 CHF** | La Tzoumaz, oferta dzienna z opisu z kwietnia 2026; obowiązywanie zimą 2026/27 **do sprawdzenia** |
-| [Jahorina](../kraje/bosnia-i-hercegowina/jahorina/README.md) | [Restoran Dvosjed](https://dvosjedjahorina.com/meni/) — burger Dvosjed | **18 BAM (KM)** | Restauracja przy trasie; brak potwierdzenia ceny na luty 2027 |
+| [Jahorina](../kraje/bosnia-i-hercegowina/jahorina/README.md) | [Restoran Dvosjed](https://dvosjedjahorina.com/meni/) — omlet na śniadanie | **13 BAM (KM)** | Restauracja przy trasie; internetowy cennik, cena na luty 2027 do potwierdzenia. |
+
+Dodatkowy przykład **w miejscowości Kranj**: [Pizzeria Picanto](https://www.picanto.si/ponudba/) podaje pizzę Margherita **od 9,70 EUR**; nie jest to cena na górze Krvavec.
 
 **Nie porównuj tych pozycji jak identycznych obiadów:** różnią się wielkością i dodatkami, a zestawienie obejmuje zarówno restauracje na stoku, lokale miejskie, jak i menu dwudaniowe. Szczególnie oferta za 20 CHF nie dowodzi, że całe Verbier jest tanie.
 
@@ -66,7 +98,7 @@ W każdym rejonie szukamy **nazwanego sklepu** i ceny z datą sprawdzenia: chleb
 ### Co jeszcze trzeba sprawdzić
 
 - Sklepy w okolicy **konkretnego noclegu**, nie tylko przy samym wyciągu: godziny otwarcia, transport, ceny koszyka i możliwość gotowania.
-- Brakujące cenniki dla Civetty, La Plagne, Dachstein West i Nassfeld; dla Krvavca cennik **na stoku**, dla Vars osobno od Risoul oraz dla Orelle osobno od Val Thorens.
+- Dla Nassfeld nadal brak ceny posiłku z wiarygodnego menu; przy pozostałych miejscach sprawdzić **aktualne zimowe cenniki**, w tym menu z grudnia 2026. Dla Vars zebrać posiłki osobno od Risoul, a dla Orelle osobno od Val Thorens.
 - Dla wszystkich przykładów ceny z sezonu **2026/27**, a także śniadania, kawa, napoje, przekąski i dania porównywalnego typu.
 - Informacje o posiłkach **wliczonych w konkretny wyjazd** i obowiązkowych dopłatach — należą do opisu tego wyjazdu, nie do ogólnego profilu kraju.
 
