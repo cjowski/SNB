@@ -86,7 +86,52 @@ Warianty posiłków oferowane przez organizatora, bez sumowania z nieporównywal
 
 Nawet kwoty 135, 235 i 280 EUR **nie stanowią rankingu opłacalności**: mogą obejmować różną liczbę dni i różne warunki.
 
-## 4. Dane potrzebne do pełnego budżetu 23 ofert
+## 4. Ile kosztują konkretne obiady — wyliczenia z lokalnych cenników
+
+**Odczyt cen restauracji: 2026-10-25.** Poniższe sumy to **rzeczywiste mnożenie pozycji z internetowych menu**, a nie prognoza całego tygodniowego wyżywienia. Zawsze podajemy, czy lokal jest **na stoku**, czy **w miejscowości**. Napoje są doliczone tylko tam, gdzie cennik pozwala wskazać konkretną kwotę. Powtórzenie jednego dania przez 5 lub 6 dni to **sposób porównania wydatku**, nie propozycja diety ani gwarancja dostępności.
+
+| Rejon, położenie i źródło | Przykładowy posiłek | Koszt jednego | Koszt przez dni karnetu | Ograniczenie |
+| --- | --- | ---: | ---: | --- |
+| **[Jahorina — Dvosjed](https://dvosjedjahorina.com/meni/)**, **na stoku** | Pizza Margherita 32 cm (18 KM) + woda 0,25 l (4 KM) | **22 KM** | **132 KM / 6 dni** | Menu online bez potwierdzenia ceny na luty 2027; woda 0,25 l. |
+| **[Jahorina — Dvosjed](https://dvosjedjahorina.com/meni/)**, **na stoku** | Spaghetti Bolognese (22 KM) + napój gazowany 0,33 l (6 KM) | **28 KM** | **168 KM / 6 dni** | Alternatywa, **nie dopłata** do wcześniejszego wariantu. |
+| **[La Plagne — Le P'tit Bouchon](https://www.la-plagne.com/savourez-une-multitude-d-activites/sortir-a-la-plagne/restaurants/le-p-tit-bouchon)**, **Plagne Centre** | Trzydaniowe **menu w porze lunchu** | **19 EUR** | **114 EUR / 6 dni** | Oferta opisana na sezon 12.12.2026–24.04.2027, bez napojów; wymaga dotarcia do Plagne Centre na lunch. |
+| **[Montgenèvre — Les Escartons](https://www.restaurant-montgenevre.fr/en/menus.html)**, **w miejscowości** | Croque-monsieur z sałatą | **12,90 EUR** | **77,40 EUR / 6 dni** | Nie jest to cena na stoku; danie i godziny trzeba potwierdzić zimą. |
+| **[Montgenèvre — Les Escartons](https://www.restaurant-montgenevre.fr/en/menus.html)**, **w miejscowości** | Burger montagnard z frytkami | **16,90 EUR** | **101,40 EUR / 6 dni** | Alternatywa dla croque-monsieur, a nie dodatkowy obiad; bez napoju. |
+| **[Risoul — Le Clos Fournier](https://risoul.labellemontagne.com/fr/ete/restauration/clos-fournier/)**, **na stoku** | Burger dnia | **18 EUR** | **108 EUR / 6 dni** | Opublikowany starszy cennik, aktualność w zimie 2026/27 **niepotwierdzona**; nie dotyczy Vars. |
+| **[3 Zinnen — bistro Drei Zinnen](https://3zinnen.it/en/bistro.html)**, **Dobbiaco** | Zupa jęczmienna z „Tirtl” | **11 EUR** | **55 EUR / 5 dni** | **W miejscowości, a nie na stoku**; nie zakładać codziennych powrotów ze stoku po obiad. Menu z sierpnia 2026. |
+| **[3 Zinnen — bistro Drei Zinnen](https://3zinnen.it/en/bistro.html)**, **Dobbiaco** | Żytnie ravioli | **16,50 EUR** | **82,50 EUR / 5 dni** | Alternatywa dla zupy, również **poza stokiem**, bez napoju. |
+
+**Dwa warianty w tym samym lokalu nie sumują się.** W szczególności 132 i 168 KM to dwa odrębne przykłady sześciu obiadów na Jahorinie. Kwota 55–82,50 EUR w Dobbiaco **nie jest prognozą obiadów podczas jazdy na 3 Zinnen**, gdyż bistro jest w miejscowości.
+
+### Przykładowy bilans jedzenia: Jahorina z obowiązkowym HB
+
+Dla [Balkan Snow Expedition, 05.02.2027](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027) karta organizatora wskazuje obowiązkowe **235 EUR/os. za HB**. Przy **założeniu sześciu obiadów w Dvosjed** i jednej wskazanej wody do każdego obiadu:
+
+| Składnik | Scenariusz z pizzą | Scenariusz ze spaghetti |
+| --- | ---: | ---: |
+| HB: śniadania i obiadokolacje, obowiązkowa dopłata | 235 EUR | 235 EUR |
+| 6 obiadów z napojem według cennika Dvosjed | 132 KM | 168 KM |
+| Inne napoje, przekąski, jedzenie w podróży | **Do wyceny** | **Do wyceny** |
+| **Znane wydatki na jedzenie (różne waluty)** | **235 EUR + 132 KM** | **235 EUR + 168 KM** |
+
+To **nie jest pełen budżet ani koszt dodatkowy do tabeli ofert**. Jeżeli 235 EUR za HB widnieje już w obowiązkowych kosztach w [porównaniu ofert](porownanie-ofert.md), do sumy wyjazdu dodajemy **jedynie 132 KM albo 168 KM** i inne wydatki poza pakietem. **Nie** sumujemy 235 EUR ponownie. Ceny w KM (BAM) nie są przeliczane na EUR bez podania kursu i daty.
+
+### Gdzie możemy policzyć tylko część kosztów?
+
+- **[La Plagne](https://www.la-plagne.com/savourez-une-multitude-d-activites/sortir-a-la-plagne/restaurants/le-p-tit-bouchon):** 114 EUR za sześć lunchów z menu dnia, **bez śniadań, kolacji, napojów i ewentualnego dojazdu do Plagne Centre**. To nie jest budżet tygodniowy.
+- **[Montgenèvre](https://www.restaurant-montgenevre.fr/en/menus.html):** 77,40 EUR za sześć croque-monsieur albo 101,40 EUR za sześć burgerów. **Lokal w miejscowości**, więc nie zakładamy, że dotarcie na lunch jest bezkosztowe.
+- **[Risoul](https://risoul.labellemontagne.com/fr/ete/restauration/clos-fournier/):** 108 EUR za sześć burgerów **na stoku**, ale opublikowana stawka wymaga potwierdzenia na sezon 2026/27.
+- **3 Zinnen:** znane 135 EUR za HB w sprawdzonym terminie i ceny pojedynczych dań **w Dobbiaco**; brak cennika pięciu obiadów **w faktycznym miejscu jazdy**, dlatego nie dopisujemy tej kalkulacji do HB.
+- **Krvavec:** HB w hotelu w **Kranju** jest opłacone, ale [Pizzeria Picanto w Kranju](https://www.picanto.si/ponudba/) (pizza Margherita od 9,70 EUR, napój 0,5 l za 2,50 EUR) **nie zastępuje ceny lunchu na Krvavcu**. Dodatkowa pizza i napój po powrocie do Kranja to **od 12,20 EUR**, wyłącznie jeśli ktoś rzeczywiście je dokupi.
+- **Civetta, Orelle, Vars, Nassfeld, Verbier/La Tzoumaz oraz pozostałe rejony:** brak porównywalnego, aktualnego zestawu **obiadu i napoju dostępnego podczas jazdy**. Starsze menu i pojedyncze ceny z [porównania lokalnego](../../../porownania/koszty-na-miejscu.md) nie wystarczają do zamknięcia budżetu.
+
+### Pierwsze ceny produktów podstawowych — bez udawania zakupów w kurorcie
+
+Na [ogólnym sklepie internetowym Carrefour](https://www.carrefour.fr/) widoczne są m.in.: makaron penne **Carrefour Classic' 500 g — 0,59 EUR** ([lista makaronów](https://www.carrefour.fr/s?q=p%C3%A2te)), mleko półtłuste **Carrefour Classic' 1 l — 1,05 EUR** ([lista mleka](https://www.carrefour.fr/s?q=lait+1l)), jaja **Carrefour z chowu ściółkowego 10 szt. — 1,89 EUR** ([lista jaj](https://www.carrefour.fr/r/cremerie/oeufs)), ryż **SIMPL 1 kg — 1,25 EUR** ([lista ryżu](https://www.carrefour.fr/s?q=RIZ+1KG)). **Suma tych czterech wskazanych opakowań: 4,78 EUR.** Odczyt: **2026-10-25**.
+
+To tylko **cztery produkty, nie posiłki dla jednej osoby przez tydzień ani pełny 10-elementowy koszyk**. Co ważniejsze: cena online sieci we Francji **nie jest potwierdzoną ceną Carrefour Montagne w Risoul ani sklepu w Montgenèvre**. Nie dodajemy 4,78 EUR do regionalnych budżetów bez sprawdzenia konkretnej placówki, stanów i ewentualnych kosztów dojazdu.
+
+## 5. Dane potrzebne do pełnego budżetu 23 ofert
 
 | Co trzeba ustalić | Dlaczego |
 | --- | --- |
