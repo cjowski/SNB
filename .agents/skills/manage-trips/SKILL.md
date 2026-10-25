@@ -17,7 +17,7 @@ description: Zakładaj i aktualizuj strony planowanych i zakończonych wyjazdów
 - Oznaczaj etapy wprost: **rozważamy**, **wybraliśmy**, **zarezerwowaliśmy**. Wybór oferty nie potwierdza automatycznie rezerwacji; opieraj zmianę etapu wyłącznie na dostarczonym potwierdzeniu.
 - Dane o terenie kieruj do `kraje/`, a przekrojowe porównania do `porownania/`. Nie kopiuj szczegółowych profili ośrodków na stronę wyjazdu.
 - Konkretne oferty, warianty noclegów, ceny i dopłaty porównuj w `porownanie-ofert.md` według [compare-offers](../compare-offers/SKILL.md). Strona główna wyjazdu zawiera krótkie podsumowanie i link.
-- Po utworzeniu wyjazdu uzupełnij listę roku (`wyjazdy/<rok>/README.md`), `wyjazdy/README.md` i — jeśli to najbliższy wyjazd — adekwatny odnośnik w głównym `README.md`. Nie zmieniaj statusu innych wyjazdów bez podstawy.
+- Po utworzeniu wyjazdu dodaj go do `wyjazdy/<rok>/README.md` (utwórz ten plik, jeśli rok jest nowy). `wyjazdy/README.md` aktualizuj tylko wtedy, gdy dodajesz nowy rok lub zmienia się jego opis. Jeśli nowy wyjazd jest najbliższy, zaktualizuj także odnośnik w głównym `README.md`. Nie zmieniaj statusu innych wyjazdów bez podstawy.
 - Dla danych ze źródeł zewnętrznych umieszczaj blok `Data odczytu / Źródło / Zakres` zgodnie z [zasadami dat odczytu](../../../.github/zasady-dat-odczytu.md). Same ustalenia wewnętrzne nie wymagają pozornej daty odczytu zewnętrznego.
 
 ## Prywatność i spójność
