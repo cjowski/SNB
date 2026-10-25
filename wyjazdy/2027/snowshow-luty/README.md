@@ -19,6 +19,8 @@ Planujemy dłuższy wyjazd na narty i snowboard ze SnowShow. **Na razie porównu
 [Poznaj kraje i ośrodki](../../../kraje/README.md) lub [porównaj tereny narciarskie](../../../porownania/osrodki.md) bez ograniczania się do jednego terminu.
 [Zobacz również orientacyjne koszty zakupów i posiłków na miejscu](../../../porownania/koszty-na-miejscu.md). Te wydatki są oddzielne od cen i dopłat konkretnych ofert.
 
+**[Zaplanuj budżet wyżywienia na ten wyjazd](budzet-wyzywienia.md)** — co zawierają oferty, co trzeba dopłacić i jak porównać trzy sposoby jedzenia.
+
 ## Co warto porównać bliżej?
 
 Przy porównywaniu wszystkich 23 propozycji warto zwrócić uwagę na:
