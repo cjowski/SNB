@@ -15,6 +15,7 @@ Planujemy dłuższy wyjazd na narty i snowboard. **Nie wybraliśmy jeszcze termi
 
 - **[Kraje i ośrodki](kraje/README.md)** — miejsca niezależne od konkretnego wyjazdu.
 - **[Porównania krajów i ośrodków](porownania/README.md)** — zestawienia z odnośnikami do szczegółów.
+- **[Porównaj koszty na miejscu](porownania/koszty-na-miejscu.md)** — zakupy spożywcze, przykładowe ceny posiłków i zasady planowania budżetu.
 
 ## Inne wyjazdy
 
