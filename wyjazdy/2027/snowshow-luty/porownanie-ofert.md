@@ -61,7 +61,7 @@ Ceny są **promocyjnymi kwotami „od” podanymi przez SnowShow**, z oznaczenie
 
 | Wyjazd | Ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
 | --- | --- | --- | ---: | ---: | --- | --- |
-| [Balkan Snow Expedition](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027) | [Jahorina](../../../kraje/bosnia-i-hercegowina/jahorina/README.md) | 05.02–14.02 | 3 590 zł | 6 | Hotel 4★ przy stoku; opłata za posiłki do wyjaśnienia | Wszystkie trzy |
+| [Balkan Snow Expedition](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027) | [Jahorina](../../../kraje/bosnia-i-hercegowina/jahorina/README.md) | 05.02–14.02 | 3 590 zł | 6 | Hotel 4★ przy stoku; HB 235 EUR jako obowiązkowa dopłata (odczyt 25.10) | Wszystkie trzy |
 
 ## Porównaj ośrodki narciarskie
 
@@ -81,6 +81,8 @@ Tu zostają **terminy, ceny, dni jazdy, noclegi i dopłaty konkretnych wyjazdów
 
 ## Koszty poza ceną „od”
 
+**Ponowny odczyt wybranego warunku:** 2026-10-25 — [Balkan Snow Expedition, Jahorina](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027). **Zakres:** opłata startowo-serwisowa **37 EUR** oraz **235 EUR za HB** w wykazie opłat obowiązkowych. Pozostałe dane poniższej tabeli mają wcześniejszą datę odczytu z nagłówka; nie były ponownie weryfikowane wszystkie naraz.
+
 **[Jak policzyć jedzenie i porównać pakiety wyżywienia](budzet-wyzywienia.md)** — osobne zestawienie wariantów żywienia i dopłat. Poniżej zostają kwoty samych ofert, inne obowiązkowe koszty i kaucje.
 
 Ubezpieczenie, pościel, sprzątanie, lokalna opłata turystyczna, dopłata do pokoju lub wyżywienie mogą znacząco zmienić cenę. **Kaucja zwrotna jest osobnym wydatkiem na początku, ale nie kosztem końcowym, jeśli zostanie zwrócona.** Bilety lotnicze i wydatki osobiste są oddzielne.
@@ -99,7 +101,7 @@ Poniższa tabela zawiera **dokładniej rozpisane, lecz nadal orientacyjne koszty
 | French Week | 3 485 zł | 58 EUR | 50 EUR |
 | Only Snow Vibes — apartament 2★ | 3 085 zł | 48 EUR | 50 EUR |
 | Snow Vibes | 3 385 zł | 55 EUR | 50 EUR |
-| Balkan Snow Expedition | 3 685 zł | 37 EUR **+ możliwe 235 EUR za wyżywienie — do wyjaśnienia** | Brak wskazanej kaucji |
+| Balkan Snow Expedition | 3 685 zł | 37 EUR **+ 235 EUR za HB — obowiązkowa pozycja w karcie 25.10; potwierdzić przed rezerwacją** | Brak wskazanej kaucji |
 | So Swiss | 4 085 zł | 52 CHF | 50 CHF |
 | Swiss Powder Paradise | 4 385 zł | 52 CHF | 50 CHF |
 | Ski Hard or Go Home | 3 585 zł | 23 EUR | 50 EUR |
@@ -114,7 +116,7 @@ Poniższa tabela zawiera **dokładniej rozpisane, lecz nadal orientacyjne koszty
 - Dla **wszystkich 23** wyjazdów porównać pełne obowiązkowe dopłaty i rzeczywiste dni jazdy. Szczególnie sprawdzić włoskie hotele z dopłatą do wyżywienia.
 - Potwierdzić miasta i godziny odjazdu autokaru, możliwość XXL oraz faktyczną dostępność transferu lotniskowego. Wcześniej Wrocław został potwierdzony w **9 z 10 początkowo analizowanych** ofert, nie we wszystkich 23.
 - **La Plagne (29.01–07.02):** na stronie są niezgodne z terminem wyjazdu daty lotów **23.01 i 30.01**.
-- **Jahorina:** wyjaśnić, czy cena zawiera posiłki, czy trzeba dopłacić **235 EUR**, oraz sprawdzić ubezpieczenie poza Unią Europejską.
+- **Jahorina:** w [karcie organizatora](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027) odczytanej **2026-10-25** kwota **235 EUR za HB** znajduje się wśród opłat obowiązkowych, choć opis podkreśla śniadania; potwierdzić pełne warunki koszyka przed rezerwacją oraz sprawdzić ubezpieczenie poza Unią Europejską.
 - Uwzględnić warunki rezygnacji i łączny koszt wyjazdu dla naszej liczby osób.
 
 **[← Wróć do planu wyjazdu](README.md)**
