@@ -22,7 +22,7 @@ description: Twórz i aktualizuj przekrojowe porównania krajów i ośrodków na
 
 ## Aktualizacja i kontrola
 
-- Zmieniaj istniejące `porownania/kraje.md` i `porownania/osrodki.md` zamiast tworzyć drugą wersję tej samej tabeli.
+- Aktualizuj odpowiedni plik: `porownania/kraje.md` dla porównania krajów albo `porownania/osrodki.md` dla porównania ośrodków. Oba zmieniaj tylko wtedy, gdy zmiana wpływa na oba zestawienia; nie twórz drugiej wersji tej samej tabeli.
 - Przy danych zewnętrznych zachowuj blok `Data odczytu / Źródło / Zakres` bezpośrednio pod tytułem zgodnie z [zasadami dat odczytu](../../../.github/zasady-dat-odczytu.md). Różne daty sprawdzenia rozdzielaj, nie odświeżaj ich pozornie.
 - Utrzymuj linki `porownania/` → `kraje/`, ale **nigdy** `porownania/` → `wyjazdy/`. Sprawdź, czy liczba porównywanych ośrodków odpowiada liczbie pozycji tabeli.
 - Sprawdź spójność tabel z profilami, rozbieżności źródeł, brak duplikatów i przyjazny język; stosuj też [CONTRIBUTING.md](../../../.github/CONTRIBUTING.md).
