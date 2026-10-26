@@ -82,7 +82,7 @@ Warianty posiłków oferowane przez organizatora, bez sumowania z nieporównywal
 | Krvavec — hotel Creina w terminie 06.02 | **w cenie wyjazdu** | Śniadania i obiadokolacje, nie doliczać pakietu po raz drugi |
 | Jahorina — HB w terminie 05.02 | **235 EUR** | Pakiet śniadań i obiadokolacji wskazany jako obowiązkowy; potwierdzić w rezerwacji |
 
-**Przykład Jahoriny:** w [porównaniu ofert](porownanie-ofert.md) zapisano **37 EUR opłat pozostałych oraz 235 EUR obowiązkowego HB**. Jeśli liczymy razem cenę wyjazdu i wydatki na jedzenie, kwotę **235 EUR ujmujemy tylko w kosztach obowiązkowych**, a do dalszych wydatków na wyżywienie dopisujemy wyłącznie obiady, napoje, przekąski i posiłki poza HB. Analogicznie przy hotelowym pokoju Dachstein West pakiet 280 EUR liczy się raz, nie jako koszt obowiązkowy **i** drugi raz jako budżet jedzenia.
+**Przykład Jahoriny:** w [porównaniu ofert](porownanie-ofert.md) jest **235 EUR za obowiązkowe HB** i osobna **opłata lokalna lub serwisowa do potwierdzenia**. W aktualnym odczycie [karty nierodzinnej](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027) z **2026-10-26** występuje **37 EUR opłaty startowo-serwisowej i 0 EUR taksy**, a we wcześniejszym odczycie widniała **12 EUR taksy**. **Nie sumujemy 37 i 12 EUR** bez potwierdzenia, która pozycja obowiązuje w koszyku. Kaucja także wymaga wyjaśnienia (**0 PLN w wykazie opłat / 50 EUR w opisie noclegu**). Koszt HB **235 EUR ujmujemy tylko raz** w obowiązkowych kosztach, a do dodatkowego budżetu żywienia doliczamy wyłącznie posiłki i napoje poza HB. Analogicznie przy hotelowym pokoju Dachstein West pakiet 280 EUR liczy się raz, nie jako koszt obowiązkowy **i** drugi raz jako budżet jedzenia.
 
 Nawet kwoty 135, 235 i 280 EUR **nie stanowią rankingu opłacalności**: mogą obejmować różną liczbę dni i różne warunki.
 
@@ -122,7 +122,7 @@ Te źródła poszerzają zakres o **Nassfeld, Vars, Civettę i właściwą czę�
 
 ### Przykładowy bilans jedzenia: Jahorina z obowiązkowym HB
 
-Dla [Balkan Snow Expedition, 05.02.2027](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027) karta organizatora wskazuje obowiązkowe **235 EUR/os. za HB**. Przy **założeniu sześciu obiadów w Dvosjed** i jednej wskazanej wody do każdego obiadu:
+Dla [Balkan Snow Expedition, 05.02.2027](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027) karta organizatora wskazuje obowiązkowe **235 EUR/os. za HB**. Przy **założeniu sześciu obiadów w Dvosjed** i **jednego napoju do każdego obiadu** (woda 0,25 l do pizzy albo napój gazowany 0,33 l do spaghetti):
 
 | Składnik | Scenariusz z pizzą | Scenariusz ze spaghetti |
 | --- | ---: | ---: |
@@ -175,14 +175,14 @@ To **nie jest pełen budżet ani koszt dodatkowy do tabeli ofert**. Jeżeli 235 
 | Ryż 1 kg | [Długoziarnisty ryż Mercator 1 kg](https://mercatoronline.si/izdelek/18420151/) | 1 opak. | **1,79 EUR** |
 | Surowy filet z piersi kurczaka 1 kg | [Piščančji file Mercator 500 g](https://mercatoronline.si/izdelek/17643096/piscancji-file-mercator-pakirano-500-g-ik) | **2 × 500 g**, po 4,79 EUR | **9,58 EUR** |
 | Ser 200 g | [Edam Deliso w plastrach, 200 g](https://mercatoronline.si/izdelek/20159008/sir-edamec-v-rezinah-deliso-200-g) | 1 opak. | **2,99 EUR** |
-| Pomidory 1 kg | [Pomidory na gałązce — katalog Mercator Online](https://mercatoronline.si/products/browseProducts) (*Paradižnik v grozdih*, podana cena za kg) | 1 kg | **3,49 EUR** |
-| Banany 1 kg | [Banany — katalog Mercator Online](https://mercatoronline.si/products/browseProducts) (*Banane*, podana cena za kg) | 1 kg | **1,49 EUR** |
+| Pomidory 1 kg | [Mercator Online — katalog produktów](https://mercatoronline.si/products/browseProducts), wyszukaj **„Paradižnik v grozdih, cena za kg”** (luzem, **3,49 EUR/kg** przy odczycie; bez stabilnego odnośnika do pojedynczego produktu) | 1 kg | **3,49 EUR** |
+| Banany 1 kg | [Mercator Online — katalog produktów](https://mercatoronline.si/products/browseProducts), wyszukaj **„Banane”** (luzem, **1,49 EUR/kg** przy odczycie; bez stabilnego odnośnika do pojedynczego produktu) | 1 kg | **1,49 EUR** |
 | Woda niegazowana 1,5 l | [Dana 1,5 l](https://mercatoronline.si/izdelek/883579/negazirana-naravna-mineralna-voda-dana-1-5-l) — **regularna** cena 0,79 EUR (pominięto promocję 0,69 EUR, której termin upływa 13.01.2027) | 1 butelka | **0,79 EUR** |
 | **Razem: 10 artykułów kontrolnych** | **1 zestaw wskazanych opakowań; nie tygodniowe jedzenie** | | **26,35 EUR** |
 
 **Jak liczymy sumę?** 1,19 + 1,15 + 2,29 + 1,59 + 1,79 + (2 × 4,79) + 2,99 + 3,49 + 1,49 + 0,79 = **26,35 EUR**. To **koszt zakupu konkretnych opakowań w jednym koszyku internetowym**, bez dostawy, a nie koszt ich spożycia przez jedną osobę w ciągu sześciu dni; część produktów wystarczy na więcej niż jeden posiłek, a koszyk nie obejmuje całej diety.
 
-**Ograniczenia porównania:** [warunki Mercator](https://mercatoronline.si/pogoji-poslovanja/236) wprost dopuszczają **różne ceny online i stacjonarne**. Dostępność zależy od punktu odbioru lub adresu, a ceny produktów na wagę (pomidory, banany) mogą zmienić się przed zakupem. Nie potwierdzono tych dziesięciu kwot ani dostępności w **Savski otok, Kranj** i **nie ma podstaw**, aby utożsamiać 26,35 EUR z koszykiem kupionym w tej placówce albo z pełnym budżetem `Slovenian Adventure`. Po weryfikacji lokalnej i rzeczywistych ilości dla grupy można tę tabelę wykorzystać do kalkulacji wariantu oszczędnego i mieszanego.
+**Ograniczenia porównania:** osiem produktów ma bezpośrednio wskazane karty, natomiast dla **pomidorów i bananów** udało się potwierdzić cenę w wynikach katalogu Mercator Online, ale **bez trwałej karty produktu**; dlatego podajemy dokładne słoweńskie nazwy do wyszukania, zamiast wymyślać odnośniki. [Warunki Mercator](https://mercatoronline.si/pogoji-poslovanja/236) wprost dopuszczają **różne ceny online i stacjonarne**. Dostępność zależy od punktu odbioru lub adresu, a ceny produktów na wagę (pomidory, banany) mogą zmienić się przed zakupem. Nie potwierdzono tych dziesięciu kwot ani dostępności w **Savski otok, Kranj** i **nie ma podstaw**, aby utożsamiać 26,35 EUR z koszykiem kupionym w tej placówce albo z pełnym budżetem `Slovenian Adventure`. Po weryfikacji lokalnej i rzeczywistych ilości dla grupy można tę tabelę wykorzystać do kalkulacji wariantu oszczędnego i mieszanego.
 
 ### Pierwsze ceny produktów podstawowych — bez udawania zakupów w kurorcie
 
