@@ -219,11 +219,29 @@ Przykład **zakupu pełnych opakowań**, a nie wartości odmierzonej z ceny za k
 
 Aby przejść od przykładu do budżetu grupy, najpierw ustalamy liczbę **posiłków faktycznie przygotowywanych**, gramaturę i liczbę jedzących. Dla produktów pakowanych obliczamy wymaganą liczbę **całych opakowań**, z uwzględnieniem zapasów po wcześniejszych posiłkach; całkowity rachunek dzielimy przez liczbę korzystających osób. Niewykorzystane jedzenie to nadal koszt zakupu, o ile nie zostanie wykorzystane później.
 
-### Pierwsze ceny produktów podstawowych — bez udawania zakupów w kurorcie
+### Pełny koszyk 10 artykułów z Carrefour Online — punkt odniesienia dla Francji
 
-Na [ogólnym sklepie internetowym Carrefour](https://www.carrefour.fr/) widoczne są m.in.: makaron penne **Carrefour Classic' 500 g — 0,59 EUR** ([lista makaronów](https://www.carrefour.fr/s?q=p%C3%A2te)), mleko półtłuste **Carrefour Classic' 1 l — 1,05 EUR** ([lista mleka](https://www.carrefour.fr/s?q=lait+1l)), jaja **Carrefour z chowu ściółkowego 10 szt. — 1,89 EUR** ([lista jaj](https://www.carrefour.fr/r/cremerie/oeufs)), ryż **SIMPL 1 kg — 1,25 EUR** ([lista ryżu](https://www.carrefour.fr/s?q=RIZ+1KG)). **Suma tych czterech wskazanych opakowań: 4,78 EUR.** Odczyt: **2026-10-25**.
+**Data odczytu:** 2026-10-26. **Źródło:** [Carrefour.fr](https://www.carrefour.fr/) — karty produktów poniżej. **Zakres:** ceny pokazane online w trybie Drive / dostawy, **bez przypisania do wybranej placówki**. Nie są to potwierdzone ceny sklepów [Carrefour Montagne w Risoul](../../../porownania/koszty-na-miejscu.md), SPAR w La Plagne czy Montgenèvre albo Orelle's Shop. Poprzedni fragment zawierał tylko cztery pozycje z odczytu 25.10 — zastąpiono go kompletnym zestawem, wykorzystując ponownie sprawdzone karty produktów z 26.10. To **nie jest tygodniowy budżet**.
 
-To tylko **cztery produkty, nie posiłki dla jednej osoby przez tydzień ani pełny 10-elementowy koszyk**. Co ważniejsze: cena online sieci we Francji **nie jest potwierdzoną ceną Carrefour Montagne w Risoul ani sklepu w Montgenèvre**. Nie dodajemy 4,78 EUR do regionalnych budżetów bez sprawdzenia konkretnej placówki, stanów i ewentualnych kosztów dojazdu.
+| Artykuł kontrolny | Dokładny produkt z Carrefour Online | Ilość kupowana | Cena EUR |
+| --- | --- | ---: | ---: |
+| Chleb 500 g | [Carrefour Classic' Pain de mie sans sucres ajoutés, 500 g](https://www.carrefour.fr/p/pain-de-mie-sans-sucres-ajoutes-carrefour-classic-3560071402778) — pieczywo tostowe, nie świeży chleb z piekarni | 1 opak. | **0,99** |
+| Mleko 1 l | [Carrefour Classic' Lait demi-écrémé, 1 l](https://www.carrefour.fr/p/lait-demi-ecreme-carrefour-classic-3276554163158) — UHT, nie mleko świeże | 1 butelka | **1,05** |
+| Jaja 10 szt. | [Carrefour, œufs frais de poules élevées au sol, 10 szt.](https://www.carrefour.fr/p/oeufs-frais-de-poules-elevees-au-sol-et-de-france-carrefour-3560071227302) | 1 opak. | **1,89** |
+| Zwykły makaron 500 g | [Carrefour Classic' Penne rigate, 500 g](https://www.carrefour.fr/p/pates-penne-rigate-carrefour-classic-3560070555390) — bez uwzględniania rabatu na drugie opakowanie | 1 opak. | **0,59** |
+| Ryż 1 kg | [SIMPL Riz long étuvé, 1 kg](https://www.carrefour.fr/p/riz-long-etuve-simpl-3560070923984) — ryż długoziarnisty parboiled | 1 opak. | **1,35** |
+| Surowy filet z kurczaka 1 kg | [SIMPL Filets de Poulet, 1 kg](https://www.carrefour.fr/p/filets-de-poulet-simpl-3560071328122) — pełna tacka, bez rozdzielania na 500 g | 1 tacka | **10,29** |
+| Ser 200 g | [Carrefour Classic' Emmental en tranches, 200 g](https://www.carrefour.fr/p/emmental-en-tranches-carrefour-classic-3560070179886) — ser w plastrach | 1 opak. | **1,99** |
+| Pomidory 1 kg | [PETIT PRIX Tomates rondes, 1 kg](https://www.carrefour.fr/p/tomates-rondes-petit-prix-3276556256452) | 1 siatka | **2,29** |
+| Banany 1 kg | [Bananes Cavendish vrac, cena za kilogram](https://www.carrefour.fr/p/bananes-cavendish-vrac-3000000033272) — sprzedawane na wagę | 1 kg | **1,99** |
+| Woda niegazowana 1,5 l | [CAROLA Eau de Source Plate, 1,5 l](https://www.carrefour.fr/p/eau-de-source-plate-carola-3268650002011) | 1 butelka | **0,48** |
+| **Razem: 10 artykułów** | **Koszt wskazanych opakowań, bez dostawy** | | **22,91 EUR** |
+
+**Kontrola sumy:** 0,99 + 1,05 + 1,89 + 0,59 + 1,35 + 10,29 + 1,99 + 2,29 + 1,99 + 0,48 = **22,91 EUR**. Nie jest to suma zakupów dla jednej osoby na 6 dni. Niektóre produkty starczą na kilka posiłków, a zestaw nie obejmuje pełnej diety.
+
+**Ważne ograniczenie:** Carrefour na kartach produktów wskazuje, że cena zależy od **sklepu i sposobu odbioru (Drive / dostawa)**. W trakcie sprawdzania internetowe wyniki dla filetów SIMPL 1 kg pokazywały również **9,99 EUR** dla innej karty tego produktu oraz różne stawki w katalogu; dlatego koszyk zachowuje **10,29 EUR z podlinkowanej karty produktu** zamiast wybierać najtańszy znaleziony wynik. Nie stosowano rabatów lojalnościowych ani promocyjnych. **Żadna z dziesięciu stawek nie jest potwierdzona w jednej wspólnej lokalizacji zakupów** — zestaw jest do porównań poglądowych, a nie odtworzonym rachunkiem z jednej kasy.
+
+**Wspólne gotowanie i całe opakowania we Francji — dwie kolacje dla czterech osób.** Dla porównania z gramaturami wcześniejszych przykładów przyjmujemy łącznie **8 porcji**: dwie paczki makaronu po 500 g (125 g suchego makaronu na porcję), tacka filetu 1 kg (125 g na porcję), dwa opakowania pomidorów po 1 kg (250 g na porcję) i dwa opakowania sera po 200 g (50 g na porcję). Przy cenach internetowych Carrefour cały zakup tych czterech składników wyniesie **(2 × 0,59) + 10,29 + (2 × 2,29) + (2 × 1,99) = 20,03 EUR**, czyli **ok. 2,50 EUR za jedną z ośmiu porcji**. Trzeba jednorazowo kupić całą tackę kurczaka i bezpiecznie przechować produkt do przygotowania obu posiłków. Nie wliczono oleju, przypraw, energii, napojów ani pozostałego wyżywienia; podział i liczba porcji są **założeniem**, nie planem kupionych obiadów dla konkretnego wyjazdu.
 
 ## 5. Co nadal trzeba ustalić, aby otrzymać pełny budżet 23 ofert
 
@@ -239,6 +257,6 @@ To tylko **cztery produkty, nie posiłki dla jednej osoby przez tydzień ani pe�
 
 **Najpierw liczymy faktyczne posiłki, nie dni na stoku.** Dla każdej z 23 ofert trzeba odrębnie zapisać: pierwszy i ostatni dzień **noclegu** (nie tylko wyjazdu autokaru), liczbę noclegów, planowane śniadania/obiady/kolacje w czasie pobytu, posiłki w trasie i zakres opłaconego HB. Przykładowo **French Snow Escape 29.01–07.02** obejmuje **10 dat kalendarzowych**, a **Slovenian Adventure 06.02–12.02** obejmuje **7 dat kalendarzowych** — obie oferty mają po **6 dni karnetu**, lecz nie dowodzi to identycznej liczby noclegów lub kolacji. Przy braku harmonogramu autokaru i hotelu pozostawiamy liczbę posiłków **„do sprawdzenia”**, zamiast wymuszać 6 śniadań i 6 kolacji. Nawet komplet cen internetowych produktów nie zastępuje tego ustalenia.
 
-**Nie podajemy jeszcze kosztu „X EUR za tydzień” dla wszystkich rejonów.** Brakuje wiarygodnego, jednakowego koszyka zakupowego oraz pełnego zestawu cen posiłków. Gdy ceny będą dostępne, można uzupełnić tabelę budżetu bez zmieniania zasad obliczeń.
+**Nie podajemy jeszcze kosztu „X EUR za tydzień” dla wszystkich rejonów.** Mamy trzy pełne **koszyki internetowe** (Słowenia, Austria, Francja), ale brakuje koszyków w fizycznych sklepach przy noclegach oraz pełnego zestawu cen posiłków. Gdy ceny będą dostępne, można uzupełnić tabelę budżetu bez zmieniania zasad obliczeń.
 
 [← Plan wyjazdu SnowShow](README.md) · [Porównanie ofert](porownanie-ofert.md)
