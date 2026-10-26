@@ -101,6 +101,23 @@ Nawet kwoty 135, 235 i 280 EUR **nie stanowią rankingu opłacalności**: mogą 
 | **[3 Zinnen — bistro Drei Zinnen](https://3zinnen.it/en/bistro.html)**, **Dobbiaco** | Zupa jęczmienna z „Tirtl” | **11 EUR** | **55 EUR / 5 dni** | **W miejscowości, a nie na stoku**; nie zakładać codziennych powrotów ze stoku po obiad. Menu z sierpnia 2026. |
 | **[3 Zinnen — bistro Drei Zinnen](https://3zinnen.it/en/bistro.html)**, **Dobbiaco** | Żytnie ravioli | **16,50 EUR** | **82,50 EUR / 5 dni** | Alternatywa dla zupy, również **poza stokiem**, bez napoju. |
 
+### Dodatkowe cenniki z odczytu 2026-10-26
+
+Te źródła poszerzają zakres o **Nassfeld, Vars, Civettę i właściwą część szwajcarskiego terenu narciarskiego**. Ceny dotyczą miejsc wymienionych w tabeli, a nie całych regionów; szacunki 5–6 posiłków zakładają powtórzenie tego samego dania każdego dnia.
+
+| Rejon i źródło | Gdzie rzeczywiście jemy | Co obejmuje jedna cena | Cena jednego posiłku | Przykład na dni karnetu |
+| --- | --- | --- | ---: | ---: |
+| [Nassfeld — **Schlanitzer Almhütte U Slováka**](https://uslovaka.at/menu/index.html) | **Sonnleitn 14, na terenie narciarskim**, dojazd trasami nr 50/51; [potwierdzenie operatora](https://www.nassfeld.at/de/Service/Nassfeld-A-Z/Schlanitzer-Almh-tte-U-Slov-ka_az_30291) | Spaghetti bolognese **15,00 EUR** + woda mineralna **0,33 l za 3,70 EUR** | **18,70 EUR** | **93,50 EUR / 5 dni** |
+| [Nassfeld — **U Slováka**](https://uslovaka.at/menu/index.html) | **Na terenie narciarskim**, ten sam lokal | Sznycel wieprzowy z frytkami **19,00 EUR** + woda mineralna 0,33 l **3,70 EUR** | **22,70 EUR** | **113,50 EUR / 5 dni** |
+| [Vars Les Claux — **Le Relax 1850**](https://www.vars.com/fr/offres/le-relax-1850-vars-fr-6701139/) | **Przy trasach, Point Show**, lokal dostępny na nartach | **Plat du jour (danie dnia) 19 EUR**, napój nieujęty | **19,00 EUR** | **114 EUR / 6 dni** |
+| [La Tzoumaz — **restauracja Savoleyres**](https://verbier4vallees.ch/V4V-Website/Restaurants/Savoleyres/Menu_Savoleyres.pdf) | **Górna stacja kolejki z La Tzoumaz**, restauracja przy trasach ([lokalizacja operatora](https://verbier4vallees.ch/en/useful-information/points-of-sale/restaurant-et-pizzeria-de-savoleyres_infrastructure_387214)) | Pizza Margherita **19 CHF** + woda mineralna **0,5 l za 5 CHF** | **24 CHF** | **144 CHF / 6 dni** |
+| [La Tzoumaz — **Savoleyres**](https://verbier4vallees.ch/V4V-Website/Restaurants/Savoleyres/Menu_Savoleyres.pdf) | **Górna stacja kolejki**, ten sam lokal | Spaghetti bolognese **21 CHF** + woda 0,5 l **5 CHF** | **26 CHF** | **156 CHF / 6 dni** |
+| [Civetta — **Pizzeria San Marco**](https://www.qodeup.com/ristorantepizzeriasanmarco) | **Corso Veneto 12, Caprile di Alleghe, poza stokiem** | Pizza Margherita **8 EUR**, bez napoju | **8 EUR** | **48 EUR / 6 posiłków w miejscowości**, nie obiadów na stoku |
+
+**Aktualność:** karta Vars wskazuje wprost **1.12.2026–13.04.2027** oraz aktualizację 15.10.2026. Lokal U Slováka ma opublikowane własne ceny oraz według operatora sezon **4.12.2026–11.04.2027**, ale brak odrębnej daty ważności każdej pozycji menu. Cennik **Savoleyres** pochodzi od operatora 4 Vallées, lecz **nie podaje daty obowiązywania** — kwoty na zimę 2026/27 trzeba potwierdzić. Menu San Marco jest internetowe, bez datowanego cennika sezonowego. To nie są gwarantowane koszty pobytu, a w Civetcie dodatkowo trzeba wrócić do Caprile po jeździe.
+
+**Przykład dla Nassfeld:** rozważana [Austrian Snow Adventure, 28.02.2027](https://snowshow.pl/wyjazdy/austria/nassfeld/28-02-2027) ma **5 dni karnetu**. Przy pięciu obiadach w U Slováka z małą wodą wydatki wynoszą **93,50 EUR** (spaghetti) albo **113,50 EUR** (sznycel). **Nie obejmują śniadań, kolacji, dodatkowych zakupów, napojów poza posiłkiem ani wyżywienia ewentualnego hotelu.** Są to dwa alternatywne scenariusze, nie przedział całkowitego budżetu.
+
 **Dwa warianty w tym samym lokalu nie sumują się.** W szczególności 132 i 168 KM to dwa odrębne przykłady sześciu obiadów na Jahorinie. Kwota 55–82,50 EUR w Dobbiaco **nie jest prognozą obiadów podczas jazdy na 3 Zinnen**, gdyż bistro jest w miejscowości.
 
 ### Przykładowy bilans jedzenia: Jahorina z obowiązkowym HB
@@ -123,7 +140,25 @@ To **nie jest pełen budżet ani koszt dodatkowy do tabeli ofert**. Jeżeli 235 
 - **[Risoul](https://risoul.labellemontagne.com/fr/ete/restauration/clos-fournier/):** 108 EUR za sześć burgerów **na stoku**, ale opublikowana stawka wymaga potwierdzenia na sezon 2026/27.
 - **3 Zinnen:** znane 135 EUR za HB w sprawdzonym terminie i ceny pojedynczych dań **w Dobbiaco**; brak cennika pięciu obiadów **w faktycznym miejscu jazdy**, dlatego nie dopisujemy tej kalkulacji do HB.
 - **Krvavec:** HB w hotelu w **Kranju** jest opłacone, ale [Pizzeria Picanto w Kranju](https://www.picanto.si/ponudba/) (pizza Margherita od 9,70 EUR, napój 0,5 l za 2,50 EUR) **nie zastępuje ceny lunchu na Krvavcu**. Dodatkowa pizza i napój po powrocie do Kranja to **od 12,20 EUR**, wyłącznie jeśli ktoś rzeczywiście je dokupi.
-- **Civetta, Orelle, Vars, Nassfeld, Verbier/La Tzoumaz oraz pozostałe rejony:** brak porównywalnego, aktualnego zestawu **obiadu i napoju dostępnego podczas jazdy**. Starsze menu i pojedyncze ceny z [porównania lokalnego](../../../porownania/koszty-na-miejscu.md) nie wystarczają do zamknięcia budżetu.
+- **Civetta:** San Marco potwierdza Margheritę w Caprile za 8 EUR, jednak to **cena obiadu/kolacji w miejscowości**, nie na stokach Ski Civetta; pozostałe posiłki trzeba wycenić.
+- **Orelle:** restauracja [Hob Orelle](https://www.evihob.com/hobs/hob-orelle/restaurant-bar/) podaje lunchowe menu **18–22 EUR**, lecz jawnie **dla sezonu letniego i na rezerwację** — tych kwot **nie stosujemy do lutego 2027**. [Chalet Chinal-Donat w Plan Bouchet](https://www.orelle.net/fiche/pratique/restaurants/309197) ma opublikowane otwarcie w zimie 2026/27, ale **brak datowanego cennika zimowego**. Val Thorens to inna lokalizacja.
+- **Vars:** danie dnia Le Relax można policzyć według cennika na zimę 2026/27, jednak jego skład zmienia się, a napoje, śniadania, kolacje i zakupy pozostają niewycenione. Nie łączyć tych liczb z Risoul.
+- **Nassfeld:** menu U Slováka pozwala policzyć posiłki na stoku; osobno trzeba wybrać **apartament albo hotel** i ustalić, czy wyżywienie w hotelu jest wliczone lub płatne.
+- **La Tzoumaz / Verbier:** istnieje menu **na stoku przy Savoleyres**, lecz bez potwierdzenia cennika na zimę 2026/27 i bez cen zakupów w apartamencie; nie podstawiać do tego cen restauracji w odległym Verbier.
+- **Krvavec:** [Hotel Krvavec opublikował menu dań](https://www.rtc-krvavec.si/assets/pdf/hotel-krvavec-menu.pdf) **bez kwot**; z jego tytułów nie wolno wyliczać ceny lunchu. [Hotelowy cennik RTC Krvavec](https://www.rtc-krvavec.si/price-list-schedule) pokazuje dopłatę za posiłek, ale dotyczy usług w Hotelu Krvavec **na górze**, podczas gdy pakiet SnowShow obejmuje **Hotel Creina w Kranju**. Trzeba sprawdzić możliwość i cenę zakupu obiadu dla osób spoza Hotelu Krvavec.
+- **3 Zinnen i pozostałe pozycje:** nadal trzeba dopasować posiłek na faktycznie używanych trasach do terminu i stanu źródła. Starsze menu i pojedyncze ceny z [porównania lokalnego](../../../porownania/koszty-na-miejscu.md) nie zamykają budżetu.
+
+### Co rzeczywiście wiemy o sklepach w wybranych miejscowościach?
+
+**Odczyt: 2026-10-26.** To ceny lub ograniczenia przypisane do konkretnych sklepów; **nie** jest to jednakowy koszyk dziesięciu artykułów.
+
+| Sklep i źródło | Co udało się ustalić | Znaczenie dla wyjazdu |
+| --- | --- | --- |
+| [Coop, Via Monte Pape 1/C, Alleghe](https://www.cooptrentinoaltoadige.it/negozi-e-volantini/420151-alleghe) | W ofercie wskazano **Rana pasta świeża nadziewana 250 g: 3,79 EUR regularnie / 2,25 EUR promocyjnie** oraz **AIA gotowa sałatka z kurczakiem 300 g: 5,99 EUR / 3,59 EUR promocyjnie** | To gotowe, markowe produkty, **nie** zwykły suchy makaron 500 g ani surowa pierś kurczaka 1 kg. **Daty zakończenia promocji nie ustalono.** |
+| [ADEG Filippitsch, Tröpolach](https://adeg-filippitsch.at/online-bestellen/) | **Kanapka na zamówienie, różne rodzaje: 2,39 EUR/szt.**; zestaw Wurst-Käseplatte **29,90 EUR/kg**, ok. 850 g na zamówienie | Cena kanapki jest ceną **jednej sztuki** (nie pełnego obiadu), a zestaw wędlin i serów nie stanowi podstawowego koszyka. Zakupy w Tröpolach wymagają dojazdu, jeśli nocleg jest wysoko na Nassfeld. |
+| [Mercator Hipermarket, Stara cesta 25c, Kranj](https://www.mercator.si/prodajna-mesta/hipermarket-kranj-savski-otok/) | Sklep publikuje zamknięcie **w niedzielę i w poniedziałek 8.02.2027** | Dla **Slovenian Adventure 6–12.02** zakupy po przyjeździe warto przewidzieć **w sobotę 6.02** (jeżeli godziny przejazdu pozwalają), a nie opierać planu na niedzieli 7.02 lub poniedziałku 8.02. **Ceny 10 produktów w tej placówce do sprawdzenia.** |
+
+**Dlaczego nie ma jeszcze „prawdziwego tygodniowego koszyka”?** W ofertach wymienionych sklepów nie zebrano jednocześnie potwierdzonych cen **chleba, mleka, 10 jaj, 500 g zwykłego makaronu, 1 kg ryżu, 1 kg piersi kurczaka, 200 g sera, 1 kg pomidorów, 1 kg bananów i 1,5 l wody**. Brakuje też gwarancji, że promocje obowiązują w lutym 2027. Nie wolno uzupełniać braków ceną produktów delikatesowych ani ceną sieciową innego sklepu.
 
 ### Pierwsze ceny produktów podstawowych — bez udawania zakupów w kurorcie
 
@@ -131,7 +166,7 @@ Na [ogólnym sklepie internetowym Carrefour](https://www.carrefour.fr/) widoczne
 
 To tylko **cztery produkty, nie posiłki dla jednej osoby przez tydzień ani pełny 10-elementowy koszyk**. Co ważniejsze: cena online sieci we Francji **nie jest potwierdzoną ceną Carrefour Montagne w Risoul ani sklepu w Montgenèvre**. Nie dodajemy 4,78 EUR do regionalnych budżetów bez sprawdzenia konkretnej placówki, stanów i ewentualnych kosztów dojazdu.
 
-## 5. Dane potrzebne do pełnego budżetu 23 ofert
+## 5. Co nadal trzeba ustalić, aby otrzymać pełny budżet 23 ofert
 
 | Co trzeba ustalić | Dlaczego |
 | --- | --- |
