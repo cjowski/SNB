@@ -184,6 +184,41 @@ To **nie jest pełen budżet ani koszt dodatkowy do tabeli ofert**. Jeżeli 235 
 
 **Ograniczenia porównania:** osiem produktów ma bezpośrednio wskazane karty, natomiast dla **pomidorów i bananów** udało się potwierdzić cenę w wynikach katalogu Mercator Online, ale **bez trwałej karty produktu**; dlatego podajemy dokładne słoweńskie nazwy do wyszukania, zamiast wymyślać odnośniki. [Warunki Mercator](https://mercatoronline.si/pogoji-poslovanja/236) wprost dopuszczają **różne ceny online i stacjonarne**. Dostępność zależy od punktu odbioru lub adresu, a ceny produktów na wagę (pomidory, banany) mogą zmienić się przed zakupem. Nie potwierdzono tych dziesięciu kwot ani dostępności w **Savski otok, Kranj** i **nie ma podstaw**, aby utożsamiać 26,35 EUR z koszykiem kupionym w tej placówce albo z pełnym budżetem `Slovenian Adventure`. Po weryfikacji lokalnej i rzeczywistych ilości dla grupy można tę tabelę wykorzystać do kalkulacji wariantu oszczędnego i mieszanego.
 
+### Pełny koszyk 10 artykułów z BILLA Online — punkt odniesienia dla Austrii
+
+**Data odczytu:** 2026-10-26. **Źródło:** [BILLA Online Shop](https://shop.billa.at/), karty konkretnych produktów poniżej. **Zakres:** ceny internetowe wskazanych opakowań, **nie** ceny sklepu [ADEG w Gosau](../../../porownania/koszty-na-miejscu.md), Obertraun, Tröpolach ani na Nassfeld. Nie potwierdzono dostępności tych produktów w placówce przy wybranym noclegu. To drugi **koszyk kontrolny**, a nie koszt całego tygodniowego wyżywienia.
+
+| Artykuł kontrolny | Produkt z internetowego cennika BILLA | Zakup do koszyka | Cena EUR |
+| --- | --- | ---: | ---: |
+| Chleb 500 g | [Clever Vollkorn Toast, 500 g](https://shop.billa.at/produkte/clever-vollkorn-toast-00884591) — chleb tostowy pełnoziarnisty | 1 opakowanie | **1,29** |
+| Mleko 1 l | [Clever Haltbar-Vollmilch 3,5%, 1 l](https://shop.billa.at/produkte/clever-haltbarvollmilch-35-00746506) — UHT | 1 opakowanie | **0,94** |
+| Jajka 10 szt. | [Clever Eier aus Bodenhaltung M, 10 szt.](https://shop.billa.at/produkte/clever-eier-aus-bodenhaltung-m-00312703) | 1 opakowanie | **2,66** |
+| Makaron 500 g | [BILLA Spaghetti Bronze, 500 g](https://shop.billa.at/produkte/billa-spaghetti-bronze-00716544) | 1 opakowanie | **1,23** |
+| Ryż 1 kg | [Clever Langkornreis, 1 kg](https://shop.billa.at/produkte/clever-langkornreis-00309662) | 1 opakowanie | **1,13** |
+| Surowy filet z kurczaka 1 kg | [Hofstädter Fair zum Tier Hendl Filet, 500 g](https://shop.billa.at/produkte/hofstaedter-fair-zum-tier-hendl-filet-00885343), **8,49 EUR/opak.** | **2 × 500 g** | **16,98** |
+| Ser 200 g | [BILLA Genusswelt Bergkäse, 200 g](https://shop.billa.at/produkte/billa-genusswelt-bergkaese-00424096) — dojrzewający ser górski, nie odpowiednik edamskiego z Mercatora | 1 opakowanie | **3,99** |
+| Pomidory 1 kg | [Clever Tomaten, 1 kg](https://shop.billa.at/produkte/clever-tomaten-00402113) | 1 opakowanie | **2,49** |
+| Banany 1 kg | [Clever Bananen](https://shop.billa.at/produkte/clever-bananen-00258074) — cena za 1 kg, sprzedaż na wagę od 0,5 kg | 1 kg | **1,59** |
+| Woda niegazowana 1,5 l | [Clever Mineralwasser Still, 1,5 l](https://shop.billa.at/produkte/clever-mineralwasser-still-00763103) — **0,35 EUR + 0,25 EUR zwrotnej kaucji za butelkę** | 1 butelka | **0,35** |
+| **Razem: 10 artykułów** | **Cena towarów, bez dostawy i bez zwrotnej kaucji** | | **32,65 EUR** |
+
+**Kontrola:** 1,29 + 0,94 + 2,66 + 1,23 + 1,13 + (2 × 8,49) + 3,99 + 2,49 + 1,59 + 0,35 = **32,65 EUR**. Przy zakupie trzeba dodatkowo **wyłożyć 0,25 EUR kaucji** za butelkę (razem **32,90 EUR** do zapłaty przed jej zwrotem); kaucja **nie jest kosztem końcowym**, jeżeli zostanie odzyskana. Cena 1 kg filetów wynika z **dwóch rzeczywistych opakowań 500 g**, a nie z mnożenia ceny jednostkowej bez sprawdzenia rozmiaru paczki.
+
+**Jak porównywać ze Słowenią?** Mercator Online: **26,35 EUR**, BILLA Online: **32,65 EUR** za zestawy kontrolne o tych samych kategoriach i ilościach. **To nie jest porównanie dwóch sklepów przy noclegach ani ranking cen krajów**: w koszykach są różne marki, mleko świeże wobec UHT, różne rodzaje sera (edamski vs dojrzewający górski) i różne ceny kanałów internetowych. Nie należy przenosić różnicy **6,30 EUR** na budżety Dachstein West, Nassfeld lub Krvavca. Szczególnie produkty świeże, ceny w sklepach stacjonarnych i koszty dojazdu wymagają sprawdzenia osobno.
+
+### Wspólne zakupy — ile może kosztować jedna partia składników dla czterech osób?
+
+Przykład **zakupu pełnych opakowań**, a nie wartości odmierzonej z ceny za kilogram: na **jedno wspólne danie** przyjęto 500 g suchego makaronu (125 g/os.), **500 g surowego filetu kurczaka** (125 g/os.), 1 kg pomidorów (250 g/os.) i 200 g sera (50 g/os.). Każda z czterech osób korzysta z posiłku; dostępna jest kuchnia z lodówką. To tylko cztery składniki, **bez oleju, przypraw, energii, dodatków, napojów i pozostałych posiłków**.
+
+| Źródło internetowe, odczyt 2026-10-26 | Makaron 500 g | Filet 500 g | Pomidory 1 kg | Ser 200 g | Cały zakup | Na 1 z 4 osób* |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Mercator Online (Słowenia)** — produkty z powyższego koszyka | 1,59 EUR | 4,79 EUR | 3,49 EUR | 2,99 EUR | **12,86 EUR** | **3,22 EUR** |
+| **BILLA Online (Austria)** — produkty z powyższego koszyka | 1,23 EUR | 8,49 EUR | 2,49 EUR | 3,99 EUR | **16,20 EUR** | **4,05 EUR** |
+
+\*Równy podział zakupionych składników na cztery osoby; Mercator: 12,86 ÷ 4 = 3,215 EUR (zaokrąglone **3,22 EUR**). W BILLA: 16,20 ÷ 4 = **4,05 EUR**. Przy rzeczywistym rozliczeniu grupy trzeba rozdzielić groszowe różnice zaokrągleń między uczestników, zamiast mnożyć zaokrągloną kwotę i wymagać identycznej sumy. **To nie są ceny obiadu na stoku, pełne koszty gotowania ani budżet na osobę za pobyt**. Pozostały filet 500 g z koszyka dziesięciu produktów może posłużyć do innego posiłku — nie kupujemy go automatycznie drugi raz w kalkulacji całego wyjazdu.
+
+Aby przejść od przykładu do budżetu grupy, najpierw ustalamy liczbę **posiłków faktycznie przygotowywanych**, gramaturę i liczbę jedzących. Dla produktów pakowanych obliczamy wymaganą liczbę **całych opakowań**, z uwzględnieniem zapasów po wcześniejszych posiłkach; całkowity rachunek dzielimy przez liczbę korzystających osób. Niewykorzystane jedzenie to nadal koszt zakupu, o ile nie zostanie wykorzystane później.
+
 ### Pierwsze ceny produktów podstawowych — bez udawania zakupów w kurorcie
 
 Na [ogólnym sklepie internetowym Carrefour](https://www.carrefour.fr/) widoczne są m.in.: makaron penne **Carrefour Classic' 500 g — 0,59 EUR** ([lista makaronów](https://www.carrefour.fr/s?q=p%C3%A2te)), mleko półtłuste **Carrefour Classic' 1 l — 1,05 EUR** ([lista mleka](https://www.carrefour.fr/s?q=lait+1l)), jaja **Carrefour z chowu ściółkowego 10 szt. — 1,89 EUR** ([lista jaj](https://www.carrefour.fr/r/cremerie/oeufs)), ryż **SIMPL 1 kg — 1,25 EUR** ([lista ryżu](https://www.carrefour.fr/s?q=RIZ+1KG)). **Suma tych czterech wskazanych opakowań: 4,78 EUR.** Odczyt: **2026-10-25**.
@@ -201,6 +236,8 @@ To tylko **cztery produkty, nie posiłki dla jednej osoby przez tydzień ani pe�
 | Ceny **tych samych produktów** w nazwanych sklepach | Potrzebne do porównywalnego koszyka, nie można użyć ceny delikatesów zamiast zwykłego produktu |
 | Ceny **porównywalnych** obiadów i napojów na stoku | Pojedyncza restauracja i lunch promocyjny nie reprezentują całego rejonu |
 | Waluta, data i źródło ceny oraz ewentualna promocja | Umożliwia aktualizację bez pozornego odmładzania danych |
+
+**Najpierw liczymy faktyczne posiłki, nie dni na stoku.** Dla każdej z 23 ofert trzeba odrębnie zapisać: pierwszy i ostatni dzień **noclegu** (nie tylko wyjazdu autokaru), liczbę noclegów, planowane śniadania/obiady/kolacje w czasie pobytu, posiłki w trasie i zakres opłaconego HB. Przykładowo **French Snow Escape 29.01–07.02** obejmuje **10 dat kalendarzowych**, a **Slovenian Adventure 06.02–12.02** obejmuje **7 dat kalendarzowych** — obie oferty mają po **6 dni karnetu**, lecz nie dowodzi to identycznej liczby noclegów lub kolacji. Przy braku harmonogramu autokaru i hotelu pozostawiamy liczbę posiłków **„do sprawdzenia”**, zamiast wymuszać 6 śniadań i 6 kolacji. Nawet komplet cen internetowych produktów nie zastępuje tego ustalenia.
 
 **Nie podajemy jeszcze kosztu „X EUR za tydzień” dla wszystkich rejonów.** Brakuje wiarygodnego, jednakowego koszyka zakupowego oraz pełnego zestawu cen posiłków. Gdy ceny będą dostępne, można uzupełnić tabelę budżetu bez zmieniania zasad obliczeń.
 
