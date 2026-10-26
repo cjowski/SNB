@@ -160,6 +160,28 @@ To **nie jest pełen budżet ani koszt dodatkowy do tabeli ofert**. Jeżeli 235 
 
 **Dlaczego nie ma jeszcze „prawdziwego tygodniowego koszyka”?** W ofertach wymienionych sklepów nie zebrano jednocześnie potwierdzonych cen **chleba, mleka, 10 jaj, 500 g zwykłego makaronu, 1 kg ryżu, 1 kg piersi kurczaka, 200 g sera, 1 kg pomidorów, 1 kg bananów i 1,5 l wody**. Brakuje też gwarancji, że promocje obowiązują w lutym 2027. Nie wolno uzupełniać braków ceną produktów delikatesowych ani ceną sieciową innego sklepu.
 
+### Pełny koszyk 10 artykułów z Mercator Online — punkt odniesienia dla Słowenii
+
+**Odczyt ofert internetowych: 2026-10-26.** Udało się wycenić wszystkie **10 pozycji jednakowego zestawu kontrolnego** bez zastępowania piersi kurczaka gotową wędliną czy zwykłego makaronu daniem gotowym. Źródłem jest **Mercator Spletna Trgovina (internetowa oferta sieci)**, a **nie potwierdzona półka w hipermarkecie Mercator Savski otok w Kranju**. Wariant opiera się na konkretnych opakowaniach; nie wybieramy datowanych promocji obowiązujących wyłącznie przed wyjazdem.
+
+| Artykuł kontrolny | Dokładny produkt i źródło internetowe | Ilość w zestawie | Cena za podaną ilość |
+| --- | --- | ---: | ---: |
+| Chleb 500 g | [Toast Classic Mercator 500 g](https://mercatoronline.si/izdelek/17907057/toast-classic-mercator-500-g) — **pieczywo tostowe**, nie bochenek z piekarni | 1 opak. | **1,19 EUR** |
+| Mleko 1 l | [Świeże mleko Mercator 3,5% 1 l](https://mercatoronline.si/izdelek/17931232/sveze-mleko-3-5-m-m-mercator-1-l) | 1 butelka | **1,15 EUR** |
+| Jaja 10 szt. | [Jajca M Mercator 10/1, chów ściółkowy](https://mercatoronline.si/izdelek/17026888/jajca-m-hlevska-reja-mercator-10-1) | 1 opak. | **2,29 EUR** |
+| Zwykły makaron 500 g | [Spaghetti Barilla nr 3, 500 g](https://mercatoronline.si/izdelek/33499/spageti-st-3-barilla-500-g) | 1 opak. | **1,59 EUR** |
+| Ryż 1 kg | [Długoziarnisty ryż Mercator 1 kg](https://mercatoronline.si/izdelek/18420151/) | 1 opak. | **1,79 EUR** |
+| Surowy filet z piersi kurczaka 1 kg | [Piščančji file Mercator 500 g](https://mercatoronline.si/izdelek/17643096/piscancji-file-mercator-pakirano-500-g-ik) | **2 × 500 g**, po 4,79 EUR | **9,58 EUR** |
+| Ser 200 g | [Edam Deliso w plastrach, 200 g](https://mercatoronline.si/izdelek/20159008/sir-edamec-v-rezinah-deliso-200-g) | 1 opak. | **2,99 EUR** |
+| Pomidory 1 kg | [Pomidory na gałązce — katalog Mercator Online](https://mercatoronline.si/products/browseProducts) (*Paradižnik v grozdih*, podana cena za kg) | 1 kg | **3,49 EUR** |
+| Banany 1 kg | [Banany — katalog Mercator Online](https://mercatoronline.si/products/browseProducts) (*Banane*, podana cena za kg) | 1 kg | **1,49 EUR** |
+| Woda niegazowana 1,5 l | [Dana 1,5 l](https://mercatoronline.si/izdelek/883579/negazirana-naravna-mineralna-voda-dana-1-5-l) — **regularna** cena 0,79 EUR (pominięto promocję 0,69 EUR, której termin upływa 13.01.2027) | 1 butelka | **0,79 EUR** |
+| **Razem: 10 artykułów kontrolnych** | **1 zestaw wskazanych opakowań; nie tygodniowe jedzenie** | | **26,35 EUR** |
+
+**Jak liczymy sumę?** 1,19 + 1,15 + 2,29 + 1,59 + 1,79 + (2 × 4,79) + 2,99 + 3,49 + 1,49 + 0,79 = **26,35 EUR**. To **koszt zakupu konkretnych opakowań w jednym koszyku internetowym**, bez dostawy, a nie koszt ich spożycia przez jedną osobę w ciągu sześciu dni; część produktów wystarczy na więcej niż jeden posiłek, a koszyk nie obejmuje całej diety.
+
+**Ograniczenia porównania:** [warunki Mercator](https://mercatoronline.si/pogoji-poslovanja/236) wprost dopuszczają **różne ceny online i stacjonarne**. Dostępność zależy od punktu odbioru lub adresu, a ceny produktów na wagę (pomidory, banany) mogą zmienić się przed zakupem. Nie potwierdzono tych dziesięciu kwot ani dostępności w **Savski otok, Kranj** i **nie ma podstaw**, aby utożsamiać 26,35 EUR z koszykiem kupionym w tej placówce albo z pełnym budżetem `Slovenian Adventure`. Po weryfikacji lokalnej i rzeczywistych ilości dla grupy można tę tabelę wykorzystać do kalkulacji wariantu oszczędnego i mieszanego.
+
 ### Pierwsze ceny produktów podstawowych — bez udawania zakupów w kurorcie
 
 Na [ogólnym sklepie internetowym Carrefour](https://www.carrefour.fr/) widoczne są m.in.: makaron penne **Carrefour Classic' 500 g — 0,59 EUR** ([lista makaronów](https://www.carrefour.fr/s?q=p%C3%A2te)), mleko półtłuste **Carrefour Classic' 1 l — 1,05 EUR** ([lista mleka](https://www.carrefour.fr/s?q=lait+1l)), jaja **Carrefour z chowu ściółkowego 10 szt. — 1,89 EUR** ([lista jaj](https://www.carrefour.fr/r/cremerie/oeufs)), ryż **SIMPL 1 kg — 1,25 EUR** ([lista ryżu](https://www.carrefour.fr/s?q=RIZ+1KG)). **Suma tych czterech wskazanych opakowań: 4,78 EUR.** Odczyt: **2026-10-25**.
