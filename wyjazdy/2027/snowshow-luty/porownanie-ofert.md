@@ -61,7 +61,7 @@ Ceny są **promocyjnymi kwotami „od” podanymi przez SnowShow**, z oznaczenie
 
 | Wyjazd | Ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
 | --- | --- | --- | ---: | ---: | --- | --- |
-| [Balkan Snow Expedition](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027) | [Jahorina](../../../kraje/bosnia-i-hercegowina/jahorina/README.md) | 05.02–14.02 | 3 590 zł | 6 | Hotel 4★ przy stoku; HB 235 EUR jako obowiązkowa dopłata (odczyt 25.10) | Wszystkie trzy |
+| [Balkan Snow Expedition](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027) | [Jahorina](../../../kraje/bosnia-i-hercegowina/jahorina/README.md) | 05.02–14.02 | 3 590 zł | 6 | Hotel 4★ przy stoku; HB 235 EUR jako obowiązkowa dopłata (odczyt 26.10) | Wszystkie trzy |
 
 ## Porównaj ośrodki narciarskie
 
@@ -81,7 +81,7 @@ Tu zostają **terminy, ceny, dni jazdy, noclegi i dopłaty konkretnych wyjazdów
 
 ## Koszty poza ceną „od”
 
-**Ponowny odczyt wybranego warunku:** 2026-10-25 — [Balkan Snow Expedition, Jahorina](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027). **Zakres:** opłata startowo-serwisowa **37 EUR** oraz **235 EUR za HB** w wykazie opłat obowiązkowych. Pozostałe dane poniższej tabeli mają wcześniejszą datę odczytu z nagłówka; nie były ponownie weryfikowane wszystkie naraz.
+**Ponowny odczyt Jahoriny: 2026-10-26** — [Balkan Snow Expedition, wariant Student / Plus / Oldschool](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027). **Zakres:** aktualnie otwarta karta wymienia **37 EUR opłaty startowo-serwisowej**, **235 EUR obowiązkowego HB** i **0 EUR taksy klimatycznej**. W innym odczycie strony pojawiała się zamiast opłaty serwisowej **taksa 12 EUR**; **nie sumujemy 12 i 37 EUR ani nie uznajemy jednej wartości za gwarantowaną bez sprawdzenia koszyka**. Karta jest też niespójna w sprawie **kaucji: 0 PLN w wykazie opłat i 50 EUR w opisie noclegu**. W poniższej tabeli pokazujemy kwoty z ostatniego odczytu wraz z ostrzeżeniem; pozostałych ofert nie odświeżaliśmy.
 
 **[Jak policzyć jedzenie i porównać pakiety wyżywienia](budzet-wyzywienia.md)** — osobne zestawienie wariantów żywienia i dopłat. Poniżej zostają kwoty samych ofert, inne obowiązkowe koszty i kaucje. **Pakiet HB wyszczególniony już tutaj jako obowiązkowa dopłata (np. Jahorina: 235 EUR/os.) wliczamy do łącznego kosztu tylko raz; budżet wydatków dodatkowych obejmuje wtedy posiłki poza HB.**
 
@@ -101,7 +101,7 @@ Poniższa tabela zawiera **dokładniej rozpisane, lecz nadal orientacyjne koszty
 | French Week | 3 485 zł | 58 EUR | 50 EUR |
 | Only Snow Vibes — apartament 2★ | 3 085 zł | 48 EUR | 50 EUR |
 | Snow Vibes | 3 385 zł | 55 EUR | 50 EUR |
-| Balkan Snow Expedition | 3 685 zł | 37 EUR **+ 235 EUR za HB — obowiązkowa pozycja w karcie 25.10; potwierdzić przed rezerwacją** | Brak wskazanej kaucji |
+| Balkan Snow Expedition | 3 685 zł | **37 EUR opłaty startowo-serwisowej (odczyt 26.10; inny odczyt: 12 EUR taksy) + 235 EUR obowiązkowego HB; sprawdzić w koszyku** | **Niejasna: 0 PLN w wykazie opłat / 50 EUR w opisie noclegu; potwierdzić** |
 | So Swiss | 4 085 zł | 52 CHF | 50 CHF |
 | Swiss Powder Paradise | 4 385 zł | 52 CHF | 50 CHF |
 | Ski Hard or Go Home | 3 585 zł | 23 EUR | 50 EUR |
@@ -116,7 +116,7 @@ Poniższa tabela zawiera **dokładniej rozpisane, lecz nadal orientacyjne koszty
 - Dla **wszystkich 23** wyjazdów porównać pełne obowiązkowe dopłaty i rzeczywiste dni jazdy. Szczególnie sprawdzić włoskie hotele z dopłatą do wyżywienia.
 - Potwierdzić miasta i godziny odjazdu autokaru, możliwość XXL oraz faktyczną dostępność transferu lotniskowego. Wcześniej Wrocław został potwierdzony w **9 z 10 początkowo analizowanych** ofert, nie we wszystkich 23.
 - **La Plagne (29.01–07.02):** na stronie są niezgodne z terminem wyjazdu daty lotów **23.01 i 30.01**.
-- **Jahorina:** w [karcie organizatora](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027) odczytanej **2026-10-25** kwota **235 EUR za HB** znajduje się wśród opłat obowiązkowych, choć opis podkreśla śniadania; potwierdzić pełne warunki koszyka przed rezerwacją oraz sprawdzić ubezpieczenie poza Unią Europejską.
+- **Jahorina:** przy odczycie [nierodzinnej karty organizatora](https://snowshow.pl/wyjazdy/bosnia-i-hercegowina/jahorina/05-02-2027) **2026-10-26** widnieją **235 EUR za obowiązkowe HB i 37 EUR opłaty serwisowej** (taksa klimatyczna 0 EUR), ale wcześniejszy odczyt wskazywał **12 EUR taksy**. Trzeba potwierdzić właściwą opłatę bez dublowania pozycji oraz rozstrzygnąć **kaucję 0 PLN / 50 EUR** w rezerwacji. Osobno sprawdzić koszt ubezpieczenia poza UE i rzeczywistą dopłatę do pokoju.
 - Uwzględnić warunki rezygnacji i łączny koszt wyjazdu dla naszej liczby osób.
 
 **[← Wróć do planu wyjazdu](README.md)**
