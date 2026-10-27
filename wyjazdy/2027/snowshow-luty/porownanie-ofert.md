@@ -14,11 +14,11 @@ Ceny są **promocyjnymi kwotami „od” podanymi przez SnowShow**, z oznaczenie
 
 | Wyjazd | Ośrodek | Termin w 2027 r. | Cena od osoby | Dni z karnetem | Nocleg | Grupa |
 | --- | --- | --- | ---: | ---: | --- | --- |
-| [Dolce Siesta Dolomiti](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/31-01-2027) | [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 31.01–06.02 | 2 790 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
+| [Dolce Siesta Dolomiti](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/31-01-2027) | [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 31.01–06.02 | 2 790 zł | 5 | Hotel Croda Rossa w Carbonin, bez kuchni; **obowiązkowe HB 135 EUR/os.** w sprawdzonym wariancie (odczyt 27.10) | Wszystkie trzy |
 | [Italian Chill](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/07-02-2027) | [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 07.02–13.02 | 2 990 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
 | [Italian Break](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/14-02-2027) | [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 14.02–20.02 | 3 190 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
 | [Italian Camp](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/21-02-2027) | [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 21.02–27.02 | 2 990 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
-| [Italian Friends Adventure](https://snowshow.pl/wyjazdy/wlochy/civetta/27-02-2027) | [Civetta](../../../kraje/wlochy/civetta/README.md) | 27.02–06.03 | 3 690 zł | 6 | Apartamenty z kuchnią, ok. 200 m od stoku | Wszystkie trzy |
+| [Italian Friends Adventure](https://snowshow.pl/wyjazdy/wlochy/civetta/27-02-2027) | [Civetta](../../../kraje/wlochy/civetta/README.md) | 27.02–06.03 | 3 690 zł | 6 | Apartamenty **w Zoldo**, aneks kuchenny, ok. 200 m od stoku; **jedzenie we własnym zakresie** (odczyt 27.10) | Wszystkie trzy |
 | [Italian Adventure](https://snowshow.pl/wyjazdy/wlochy/3-zinnen/28-02-2027) | [3 Zinnen](../../../kraje/wlochy/3-zinnen/README.md) | 28.02–06.03 | 2 890 zł | 5 | Hotel, wyżywienie za dopłatą | Wszystkie trzy |
 
 ## [Francja](../../../kraje/francja/README.md) — 7 wyjazdów
