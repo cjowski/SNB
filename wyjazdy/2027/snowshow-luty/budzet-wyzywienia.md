@@ -165,19 +165,23 @@ To **nie jest pełen budżet ani koszt dodatkowy do tabeli ofert**. Jeżeli 235 
 
 **Dlaczego nie ma jeszcze „prawdziwego tygodniowego koszyka”, także dla Włoch?** W ofertach wymienionych sklepów nie zebrano jednocześnie potwierdzonych cen **chleba, mleka, 10 jaj, 500 g zwykłego makaronu, 1 kg ryżu, 1 kg piersi kurczaka, 200 g sera, 1 kg pomidorów, 1 kg bananów i 1,5 l wody**. Brakuje też gwarancji, że promocje obowiązują w lutym 2027. Nie wolno uzupełniać braków ceną produktów delikatesowych ani ceną sieciową innego sklepu.
 
-### Pięć cen z Conad Spesa Online — niepełny punkt odniesienia dla Włoch
+### Siedem cen z Conad Spesa Online — niepełny punkt odniesienia dla Włoch
 
-**Data odczytu:** 2026-10-26. **Źródło:** [Conad Spesa Online](https://spesaonline.conad.it/), konkretne karty lub działy asortymentu podlinkowane w tabeli. **Zakres:** wybrane ceny internetowe we Włoszech, **bez wyboru placówki lub terminu odbioru**. Nie są to ceny [Conad City w Dobbiaco](https://www.conad.it/ricerca-negozi/conad-city-piazza-parrocchia-1-39034-dobbiaco--010691) ani [Coop w Alleghe](https://www.cooptrentinoaltoadige.it/negozi-e-volantini/420151-alleghe).
+**Data odczytu:** pierwsze pięć cen **2026-10-26**; jaja, kurczak i ponowny odczyt pięciu wcześniejszych produktów **2026-10-27**. **Źródło:** [Conad Spesa Online](https://spesaonline.conad.it/), karty produktów poniżej. **Zakres:** wybrane ceny internetowe we Włoszech, **bez wyboru placówki lub terminu odbioru**. Nie są to ceny [Conad City w Dobbiaco](https://www.conad.it/ricerca-negozi/conad-city-piazza-parrocchia-1-39034-dobbiaco--010691) ani [Coop w Alleghe](https://www.cooptrentinoaltoadige.it/negozi-e-volantini/420151-alleghe).
 
 | Kategoria | Dokładny artykuł internetowy | Opakowanie | Cena |
 | --- | --- | ---: | ---: |
 | Mleko | [Conad Buono e Gustoso UHT, pełne 3,5%](https://spesaonline.conad.it/p/conad-buono-e-gustoso-latte-uht-intero-1-l--262865) | 1 l | **1,09 EUR** |
-| Makaron | [Conad Penne Lisce nr 71, suchy makaron](https://spesaonline.conad.it/c/pasta-di-semola--1004) — pozycja na liście produktu | 500 g | **0,59 EUR** |
+| Jaja | [Conad Percorso Qualità, 10 jaj z chowu ściółkowego, rozmiar M](https://spesaonline.conad.it/p/conad-percorso-qualita-10-uova-fresche-medie-da-galline-allevate-a-terra--401478) | 10 szt. | **2,79 EUR** |
+| Makaron | [Conad Penne Lisce nr 71, suchy makaron](https://spesaonline.conad.it/p/conad-pasta-di-semola-di-grano-duro-n-71-penne-lisce-500-g--300950) — bezpośrednia karta produktu | 500 g | **0,59 EUR** |
 | Ryż | [Conad Parboiled](https://spesaonline.conad.it/p/conad-parboiled-1-kg--203741) | 1 kg | **1,89 EUR** |
+| Surowy filet z kurczaka | [Conad Percorso Qualità, filet 400 g](https://spesaonline.conad.it/p/conad-percorso-qualita-filetti-di-petto-di-pollo-0400-kg--10701419): **3,70 EUR/400 g = 9,25 EUR/kg** według ceny jednostkowej w sklepie online | 1 tacka 400 g; **3 tacki to 1,2 kg** | **3,70 EUR/tacka**; **11,10 EUR za 3 tacki** |
 | Ser | [Conad Territorio Feta DOP](https://spesaonline.conad.it/p/conad-feta-dop-200-g--402471) — **feta, a nie emmentaler ani ser górski** | 200 g | **2,99 EUR** |
 | Woda | [Conad Acqua minerale naturale](https://spesaonline.conad.it/p/conad-naturale-acqua-minerale-naturale-oligominerale-15-l--279757) | 1,5 l | **0,30 EUR** |
 
-**Nie sumujemy tych pięciu pozycji jako koszyka tygodniowego i nie rozszerzamy ich o brakujące ceny.** Bez wiarygodnie wycenionych w tej samej placówce: chleba 500 g, **10 jaj**, **1 kg surowej piersi kurczaka**, **1 kg pomidorów i 1 kg bananów**, nie ma pełnego porównania do dotychczasowych koszyków. Inne rodzaje sera i mleka też mogą zaburzać porównanie. Karty Conad wskazują warunki związane z odbiorem, dostawą lub dostępnością; to ceny katalogu online, **nie odtworzony paragon**. Przy 3 Zinnen trzeba najpierw potwierdzić adres noclegu i wyżywienie HB — przy pakiecie obowiązkowym nie planować osobnego zakupu śniadań i obiadokolacji.
+**Siedem wycenionych kategorii nie tworzy pełnego koszyka.** Ceny **chleba 500 g**, **świeżych pomidorów 1 kg** oraz **bananów 1 kg** nadal pozostają **do sprawdzenia**: [chleb żytni Conad 500 g](https://spesaonline.conad.it/p/conad-pane-con-segale-500-g--400855), [pomidory gałązkowe Conad 1 kg](https://spesaonline.conad.it/p/conad-percorso-qualita-pomodoro-a-grappolo-rosso-italia-1000-g--10578734) i [banany Conad](https://spesaonline.conad.it/c/banane--010105) są w katalogu, lecz przy odczycie **2026-10-27** nie miały widocznej jednoznacznej ceny. Nie podstawiamy cen za chleb **400 g**, przetwory pomidorowe lub banany z innych sieci.
+
+**Uwaga o ilości mięsa:** nie można kupić **dokładnie 1 kg** z całych tacek po 400 g; trzy tacki kosztują **11,10 EUR i dają 1,2 kg**. Podany **9,25 EUR/kg** jest ceną jednostkową, **nie kosztem zakupu dokładnie 1 kg**. Nie sumujemy tych siedmiu pozycji jako kosztu tygodniowego jedzenia. Ser feta i rodzaj mleka różnią się od innych zestawów krajowych, co też ogranicza porównanie. [Conad opisuje zależność oferty od wybranej placówki oraz wahania masy produktów ważonych](https://spesaonline.conad.it/condizioni-di-vendita); to ceny katalogu online, **nie odtworzony paragon**. Przy 3 Zinnen trzeba najpierw potwierdzić adres noclegu i warunki HB — przy pakiecie obowiązkowym nie planować osobnego zakupu opłaconych śniadań i obiadokolacji.
 
 ### Pełny koszyk 10 artykułów z Mercator Online — punkt odniesienia dla Słowenii
 
